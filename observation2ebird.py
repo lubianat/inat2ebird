@@ -5,6 +5,8 @@ import sys
 import time
 from datetime import datetime
 from dataclasses import dataclass
+import pandas as pd
+import csv
 
 name: str
 unit_price: float
@@ -19,7 +21,6 @@ class eBirdEntry:
     genus: str
     species: str
     location: str
-    name: str
     latitude: str
     longitude: str
     date: str
@@ -57,8 +58,28 @@ def main():
 
     latitude = observation_data["location"].split(",")[0]
     longitude = observation_data["location"].split(",")[1]
-    activity = "Incidental"
-    entry = eBirdEntry()
+    taxon_data = observation_data["taxon"]
+
+    common_name = taxon_data["preferred_common_name"]
+    species = taxon_data["name"]
+    genus = species.split(" ")[0]
+    entry = eBirdEntry(
+        common_name=common_name,
+        genus=genus,
+        species=species,
+        location=location_string,
+        latitude=latitude,
+        longitude=longitude,
+        date=date_ebird,
+        state_province=location_string,
+        country_code=location_string,
+    )
+    df = pd.DataFrame(entry)
+    filename = "items.csv"
+    with open(filename, "w", newline="") as f:
+        writer = csv.writer(f)
+        for item in items:
+            writer.writerow([item.id, item.name, item.category])
 
 
 if __name__ == "__main__":
