@@ -5,6 +5,7 @@ import sys
 import time
 from datetime import datetime
 from dataclasses import dataclass
+import dataclasses
 import pandas as pd
 import csv
 
@@ -12,21 +13,24 @@ name: str
 unit_price: float
 quantity_on_hand: int = 0
 
+country_dict = {"Brasil": "BR", "Espanha": "ES"}
+
 
 @dataclass
 class eBirdEntry:
     """Class for formatting an iNaturalist entry to eBird."""
 
-    common_name: str
     genus: str
     species: str
     location: str
     latitude: str
     longitude: str
     date: str
+    start_time: str
     state_province: str
     country_code: str
-    number: int = 0  # The number of birds seen there
+    common_name: str = ""
+    number: str = "X"  # The number of birds seen there as string (defaults to 'X')
     species_comments: str = ""
     protocol: str = "Incidental"
     number_of_observers: int = 1
@@ -52,7 +56,7 @@ def main():
     date_inat = observation_data["time_observed_at"].split("+")[0]
     date = datetime.strptime(date_inat, "%Y-%m-%dT%H:%M:%S")
 
-    date_ebird = date.strftime("%Y/%m/%d")
+    date_ebird = date.strftime("%m/%d/%Y")
     start_time_ebird = date.strftime("%H:%M")
     location_string = observation_data["place_guess"]
 
@@ -60,26 +64,51 @@ def main():
     longitude = observation_data["location"].split(",")[1]
     taxon_data = observation_data["taxon"]
 
-    common_name = taxon_data["preferred_common_name"]
+    location_guess = requests.get(
+        f"https://api.ebird.org/v2/ref/hotspot/geo?lat={latitude}&lng={longitude}"
+    )
+    country_code = location_guess.text.split(",")[1]
+    regional_code = location_guess.text.split(",")[2].split("-")[1]
     species = taxon_data["name"]
     genus = species.split(" ")[0]
     entry = eBirdEntry(
-        common_name=common_name,
         genus=genus,
-        species=species,
+        species=species.split(" ")[-1],
         location=location_string,
         latitude=latitude,
         longitude=longitude,
         date=date_ebird,
-        state_province=location_string,
-        country_code=location_string,
+        start_time=start_time_ebird,
+        state_province=regional_code,
+        country_code=country_code,
+        submission_comments=f"iNaturalist observation https://www.inaturalist.org/observations/{inaturalist_id}",
     )
-    df = pd.DataFrame(entry)
     filename = "items.csv"
     with open(filename, "w", newline="") as f:
         writer = csv.writer(f)
-        for item in items:
-            writer.writerow([item.id, item.name, item.category])
+        writer.writerow(
+            [
+                entry.common_name,
+                entry.genus,
+                entry.species,
+                entry.number,
+                entry.species_comments,
+                entry.location,
+                entry.latitude,
+                entry.longitude,
+                entry.date,
+                entry.start_time,
+                entry.state_province,
+                entry.country_code,
+                entry.protocol,
+                entry.number_of_observers,
+                entry.duration,
+                entry.all_observations_reported,
+                entry.effort_distance_miles,
+                entry.effort_area_acres,
+                entry.submission_comments,
+            ]
+        )
 
 
 if __name__ == "__main__":
