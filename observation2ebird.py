@@ -47,13 +47,54 @@ def main():
     except:
         inaturalist_id = input("Enter the iNaturalist observation id:")
 
+    entry = generate_entry_from_id(inaturalist_id)
+    filename = "items.csv"
+    with open(filename, "w", newline="") as f:
+        writer = csv.writer(f)
+        write_row_for_entry(entry, writer)
+
+
+def write_row_for_entry(entry, writer):
+    writer.writerow(
+        [
+            entry.common_name,
+            entry.genus,
+            entry.species,
+            entry.number,
+            entry.species_comments,
+            entry.location,
+            entry.latitude,
+            entry.longitude,
+            entry.date,
+            entry.start_time,
+            entry.state_province,
+            entry.country_code,
+            entry.protocol,
+            entry.number_of_observers,
+            entry.duration,
+            entry.all_observations_reported,
+            entry.effort_distance_miles,
+            entry.effort_area_acres,
+            entry.submission_comments,
+        ]
+    )
+
+
+def generate_entry_from_id(inaturalist_id):
     base_url = "https://api.inaturalist.org/v1/"
     observation_url = base_url + f"observations/{inaturalist_id}"
 
     result = requests.get(observation_url)
     data = result.json()
     observation_data = data["results"][0]
-    date_inat = observation_data["time_observed_at"].split("+")[0]
+    entry = generate_entry_from_observation_data(observation_data)
+
+    return entry
+
+
+def generate_entry_from_observation_data(observation_data):
+    inaturalist_id = observation_data["id"]
+    date_inat = observation_data["time_observed_at"][:-6]  # Remove time zone
     date = datetime.strptime(date_inat, "%Y-%m-%dT%H:%M:%S")
 
     date_ebird = date.strftime("%m/%d/%Y")
@@ -83,32 +124,8 @@ def main():
         country_code=country_code,
         submission_comments=f"iNaturalist observation https://www.inaturalist.org/observations/{inaturalist_id}",
     )
-    filename = "items.csv"
-    with open(filename, "w", newline="") as f:
-        writer = csv.writer(f)
-        writer.writerow(
-            [
-                entry.common_name,
-                entry.genus,
-                entry.species,
-                entry.number,
-                entry.species_comments,
-                entry.location,
-                entry.latitude,
-                entry.longitude,
-                entry.date,
-                entry.start_time,
-                entry.state_province,
-                entry.country_code,
-                entry.protocol,
-                entry.number_of_observers,
-                entry.duration,
-                entry.all_observations_reported,
-                entry.effort_distance_miles,
-                entry.effort_area_acres,
-                entry.submission_comments,
-            ]
-        )
+
+    return entry
 
 
 if __name__ == "__main__":
