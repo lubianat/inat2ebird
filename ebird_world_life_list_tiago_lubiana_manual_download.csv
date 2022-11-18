@@ -1,0 +1,120 @@
+Row #,Species,Count,Location,S/P,Date,LocID,SubID
+1,pica-pau-de-cabeça-amarela - Celeus flavescens,1,São Paulo--Praça Pôr do Sol,BR-SP,12 Nov 2022,L10971805,S122277458
+2,tucano-de-bico-verde - Ramphastos dicolorus,3,Universidade de São Paulo--Praça do Relógio,BR-SP,11 Nov 2022,L8121084,S122239640
+3,suiriri-cavaleiro - Machetornis rixosa,1,Universidade de São Paulo--Praça do Relógio,BR-SP,11 Nov 2022,L8121084,S122239640
+4,chupim - Molothrus bonariensis,5,Universidade de São Paulo--Praça do Relógio,BR-SP,11 Nov 2022,L8121084,S122239640
+5,juriti-pupu - Leptotila verreauxi,,Sítio do Engenho,BR-SP,10 Nov 2022,L21434561,S122165037
+6,andorinhão-do-temporal - Chaetura meridionalis,1,Sítio do Engenho,BR-SP,10 Nov 2022,L21434561,S122165037
+7,sabiá-poca - Turdus amaurochalinus,,Sítio do Engenho,BR-SP,09 Nov 2022,L21434561,S122139958
+8,pintassilgo - Spinus magellanicus,1,Sítio do Engenho,BR-SP,09 Nov 2022,L21434561,S122139958
+9,jacuguaçu - Penelope obscura,2,Sítio do Engenho,BR-SP,09 Nov 2022,L21434561,S122115800
+10,pitiguari - Cyclarhis gujanensis,,Sítio do Engenho,BR-SP,06 Nov 2022,L21434561,S121959603
+11,sabiá-do-campo - Mimus saturninus,1,Sítio do Engenho,BR-SP,06 Nov 2022,L21434561,S121959603
+12,pica-pau-verde-barrado - Colaptes melanochloros,1,Sítio do Engenho,BR-SP,05 Nov 2022,L21434561,S122018582
+13,sovi - Ictinia plumbea,1,Sítio do Engenho,BR-SP,05 Nov 2022,L21434561,S121891899
+14,tucanuçu - Ramphastos toco,1,Pesqueiro Megalodon,BR-SP,05 Nov 2022,L21448117,S121886433
+15,galinha-d'água - Gallinula galeata,1,Sítio do Engenho,BR-SP,05 Nov 2022,L21434561,S121873909
+16,canário-da-terra - Sicalis flaveola,1,Sítio do Engenho,BR-SP,05 Nov 2022,L21434561,S121873909
+17,bem-te-vi-rajado - Myiodynastes maculatus,2,Sítio do Engenho,BR-SP,04 Nov 2022,L21434561,S121848085
+18,marreca-ananaí - Amazonetta brasiliensis,2,Sítio do Engenho,BR-SP,04 Nov 2022,L21434561,S121829072
+19,carcará - Caracara plancus,1,Sítio do Engenho,BR-SP,04 Nov 2022,L21434561,S121829072
+20,joão-de-barro - Furnarius rufus,1,Sítio do Engenho,BR-SP,04 Nov 2022,L21434561,S121829072
+21,tesourinha/tesourinha-do-norte - Tyrannus savana,2,Sítio do Engenho,BR-SP,04 Nov 2022,L21434561,S121829072
+22,beija-flor-de-fronte-violeta - Thalurania glaucopis,1,Sítio do Engenho,BR-SP,04 Nov 2022,L21434561,S121824051
+23,juruviara - Vireo chivi,,Sítio do Engenho,BR-SP,04 Nov 2022,L21434561,S121824051
+24,pomba-asa-branca - Patagioenas picazuro,2,Sítio do Engenho,BR-SP,03 Nov 2022,L21434561,S121809837
+25,saracura-do-mato - Aramides saracura,1,Sítio do Engenho,BR-SP,03 Nov 2022,L21434561,S121809837
+26,maria-faceira - Syrigma sibilatrix,1,Sítio do Engenho,BR-SP,03 Nov 2022,L21434561,S121809837
+27,coró-coró - Mesembrinibis cayennensis,1,Sítio do Engenho,BR-SP,03 Nov 2022,L21434561,S121809837
+28,periquitão - Psittacara leucophthalmus,5,Sítio do Engenho,BR-SP,03 Nov 2022,L21434561,S121809837
+29,andorinha-pequena-de-casa - Pygochelidon cyanoleuca,,Sítio do Engenho,BR-SP,03 Nov 2022,L21434561,S121809837
+30,tico-tico - Zonotrichia capensis,1,Sítio do Engenho,BR-SP,03 Nov 2022,L21434561,S121809837
+31,coleirinho - Sporophila caerulescens,1,Sítio do Engenho,BR-SP,03 Nov 2022,L21434561,S121809837
+32,cisne-preto - Cygnus atratus,1,Parque Eduardo Guinle,BR-RJ,30 Oct 2022,L11532167,S121561443
+33,tiriba-de-testa-vermelha - Pyrrhura frontalis,1,Parque Eduardo Guinle,BR-RJ,30 Oct 2022,L11532167,S121561443
+34,pardal - Passer domesticus,,Parque Eduardo Guinle,BR-RJ,30 Oct 2022,L11532167,S121561443
+35,sanhaço-cinzento - Thraupis sayaca,3,Parque Eduardo Guinle,BR-RJ,30 Oct 2022,L11532167,S121561443
+36,sabiá-barranco - Turdus leucomelas,,"74 Rua Soares Cabral, Rio de Janeiro, BR (-22,937, -43,186)",BR-RJ,29 Oct 2022,L21387228,S121521894
+37,pato-do-mato - Cairina moschata,,Parque Eduardo Guinle,BR-RJ,29 Oct 2022,L11532167,S121522131
+38,pombo-doméstico - Columba livia,17,Parque Eduardo Guinle,BR-RJ,29 Oct 2022,L11532167,S121522131
+39,rolinha-roxa - Columbina talpacoti,1,Parque Eduardo Guinle,BR-RJ,29 Oct 2022,L11532167,S121522131
+40,biguá - Nannopterum brasilianum,1,Parque Eduardo Guinle,BR-RJ,29 Oct 2022,L11532167,S121522131
+41,sabiá-laranjeira - Turdus rufiventris,1,Parque Eduardo Guinle,BR-RJ,29 Oct 2022,L11532167,S121522131
+42,cambacica - Coereba flaveola,,Parque Eduardo Guinle,BR-RJ,29 Oct 2022,L11532167,S121522131
+43,mariquita-amarela - Setophaga petechia,1,Gamboa (town),PA-3,26 Oct 2022,L454673,S121662529
+44,plain-colored tanager - Tangara inornata,2,Gamboa (town),PA-3,26 Oct 2022,L454673,S121662529
+45,inhambu-serra - Tinamus major,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177
+46,frango-d'água-azul - Porphyrio martinica,2,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177
+47,white-throated crake - Laterallus albigularis,4,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177
+48,maçarico-de-colete - Calidris melanotos,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177
+49,garça-azul-grande - Ardea herodias,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177
+50,garça-azul - Egretta caerulea,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177
+51,socó-mirim - Butorides virescens,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177
+52,pica-pau-de-banda-branca - Dryocopus lineatus,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177
+53,choca-barrada/choca-barrada-do-nordeste - Thamnophilus doliatus,2,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177
+54,bem-te-vi - Pitangus sulphuratus,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177
+55,bentevizinho-de-penacho-vermelho - Myiozetetes similis,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177
+56,andorinha-serradora - Stelgidopteryx ruficollis,10,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177
+57,andorinha-de-bando - Hirundo rustica,15,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177
+58,abana-rabo-de-baixada - Parkesia noveboracensis,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177
+59,papa-capim-americano - Spiza americana,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177
+60,sanhaço-do-coqueiro - Thraupis palmarum,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177
+61,tiziu - Volatinia jacarina,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177
+62,variable seedeater - Sporophila corvina,2,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177
+63,urutau-grande - Nyctibius grandis,1,Pipeline Road,PA-3,25 Oct 2022,L8603093,S121386102
+64,pavãozinho-do-pará - Eurypyga helias,1,Pipeline Road,PA-3,25 Oct 2022,L8603093,S121386102
+65,gavião-ripina - Harpagus bidentatus,2,Pipeline Road,PA-3,25 Oct 2022,L8603093,S121386102
+66,gavião-de-asa-larga - Buteo platypterus,3,Pipeline Road,PA-3,25 Oct 2022,L8603093,S121386102
+67,black-breasted puffbird - Notharchus pectoralis,3,Pipeline Road,PA-3,25 Oct 2022,L8603093,S121386102
+68,cinnamon woodpecker - Celeus loricatus,4,Pipeline Road,PA-3,25 Oct 2022,L8603093,S121386102
+69,cocoa woodcreeper - Xiphorhynchus susurrans,2,Pipeline Road,PA-3,25 Oct 2022,L8603093,S121386102
+70,patinho-de-coroa-dourada - Platyrinchus coronatus,1,Pipeline Road,PA-3,25 Oct 2022,L8603093,S121386102
+71,piuí-verdadeiro-do-leste - Contopus virens,7,Pipeline Road,PA-3,25 Oct 2022,L8603093,S121386102
+72,song wren - Cyphorhinus phaeocephalus,7,Pipeline Road,PA-3,25 Oct 2022,L8603093,S121386102
+73,anu-coroca - Crotophaga major,3,Lago Gatún,PA-3,24 Oct 2022,L5377870,S121386092
+74,carão - Aramus guarauna,2,Lago Gatún,PA-3,24 Oct 2022,L5377870,S121386092
+75,jaçanã - Jacana jacana,7,Lago Gatún,PA-3,24 Oct 2022,L5377870,S121386092
+76,garça-moura - Ardea cocoi,1,Lago Gatún,PA-3,24 Oct 2022,L5377870,S121386092
+77,garça-branca-grande - Ardea alba,3,Lago Gatún,PA-3,24 Oct 2022,L5377870,S121386092
+78,águia-pescadora - Pandion haliaetus,1,Lago Gatún,PA-3,24 Oct 2022,L5377870,S121386092
+79,gavião-caramujeiro - Rostrhamus sociabilis,5,Lago Gatún,PA-3,24 Oct 2022,L5377870,S121386092
+80,slaty-tailed trogon - Trogon massena,2,Lago Gatún,PA-3,24 Oct 2022,L5377870,S121386092
+81,juruva-ruiva - Baryphthengus martii,1,Lago Gatún,PA-3,24 Oct 2022,L5377870,S121386092
+82,martim-pescador-grande - Megaceryle torquata,1,Lago Gatún,PA-3,24 Oct 2022,L5377870,S121386092
+83,socó-boi - Tigrisoma lineatum,2,Ammo Dump Ponds,PA-3,23 Oct 2022,L1740339,S121386086
+84,gray-headed chachalaca - Ortalis cinereiceps,4,Gamboa (town),PA-3,23 Oct 2022,L454673,S121385961
+85,whooping motmot - Momotus subrufescens,1,Gamboa (town),PA-3,23 Oct 2022,L454673,S121385961
+86,corruíra - Troglodytes aedon,1,Gamboa (town),PA-3,23 Oct 2022,L454673,S121385961
+87,clay-colored thrush - Turdus grayi,1,Gamboa (town),PA-3,23 Oct 2022,L454673,S121385961
+88,crimson-backed tanager - Ramphocelus dimidiatus,4,Gamboa (town),PA-3,23 Oct 2022,L454673,S121385961
+89,sanhaço-da-amazônia - Thraupis episcopus,3,Gamboa (town),PA-3,23 Oct 2022,L454673,S121385961
+90,saí-azul - Dacnis cayana,1,Gamboa (town),PA-3,23 Oct 2022,L454673,S121385961
+91,gartered trogon - Trogon caligatus,1,Achiote Rd.--Sendero El Trogón,PA-3,22 Oct 2022,L454697,S121457761
+92,collared aracari - Pteroglossus torquatus,3,Achiote Rd.--Sendero El Trogón,PA-3,22 Oct 2022,L454697,S121457761
+93,papagaio-diadema - Amazona autumnalis,2,Achiote Rd.--Sendero El Trogón,PA-3,22 Oct 2022,L454697,S121457761
+94,checker-throated stipplethroat - Epinecrophylla fulviventris,1,Achiote Rd.--Sendero El Trogón,PA-3,22 Oct 2022,L454697,S121457761
+95,scarlet-rumped cacique - Cacicus uropygialis,2,Achiote Rd.--Sendero El Trogón,PA-3,22 Oct 2022,L454697,S121457761
+96,pomba-galega - Patagioenas cayennensis,5,Ft.Sherman--Shelter Bay Marina & Kennedy Loop Place,PA-3,22 Oct 2022,L2440821,S121457374
+97,fragata - Fregata magnificens,1,Ft.Sherman--Shelter Bay Marina & Kennedy Loop Place,PA-3,22 Oct 2022,L2440821,S121457374
+98,urubu-preto - Coragyps atratus,13,Ft.Sherman--Shelter Bay Marina & Kennedy Loop Place,PA-3,22 Oct 2022,L2440821,S121457374
+99,urubu-de-cabeça-vermelha - Cathartes aura,4,Ft.Sherman--Shelter Bay Marina & Kennedy Loop Place,PA-3,22 Oct 2022,L2440821,S121457374
+100,keel-billed toucan - Ramphastos sulfuratus,4,Ft.Sherman--Shelter Bay Marina & Kennedy Loop Place,PA-3,22 Oct 2022,L2440821,S121457374
+101,carrapateiro - Daptrius chimachima,5,Ft.Sherman--Shelter Bay Marina & Kennedy Loop Place,PA-3,22 Oct 2022,L2440821,S121457374
+102,great crested flycatcher - Myiarchus crinitus,1,Ft.Sherman--Shelter Bay Marina & Kennedy Loop Place,PA-3,22 Oct 2022,L2440821,S121457374
+103,suiriri - Tyrannus melancholicus,10,Ft.Sherman--Shelter Bay Marina & Kennedy Loop Place,PA-3,22 Oct 2022,L2440821,S121457374
+104,suiriri-valente - Tyrannus tyrannus,8,Ft.Sherman--Shelter Bay Marina & Kennedy Loop Place,PA-3,22 Oct 2022,L2440821,S121457374
+105,andorinha-grande - Progne chalybea,6,Ft.Sherman--Shelter Bay Marina & Kennedy Loop Place,PA-3,22 Oct 2022,L2440821,S121457374
+106,mangrove swallow - Tachycineta albilinea,5,Ft.Sherman--Shelter Bay Marina & Kennedy Loop Place,PA-3,22 Oct 2022,L2440821,S121457374
+107,sabiá-da-praia - Mimus gilvus,4,Ft.Sherman--Shelter Bay Marina & Kennedy Loop Place,PA-3,22 Oct 2022,L2440821,S121457374
+108,great-tailed grackle - Quiscalus mexicanus,12,Ft.Sherman--Shelter Bay Marina & Kennedy Loop Place,PA-3,22 Oct 2022,L2440821,S121457374
+109,pato-real - Anas platyrhynchos,,"Estació de Sagrada Família, Barcelona, Espanha",ES-CT,13 Nov 2021,L21535353,S122413200
+110,gaivota-de-patas-amarelas - Larus michahellis,,Espanha,ES-CT,05 Nov 2021,L21557005,S122549237
+111,gaivota-de-capuz-escuro - Chroicocephalus ridibundus,,Espanha,ES-CT,05 Nov 2021,L21557005,S122549238
+112,periquito-rico - Brotogeris tirica,,"Vila Indiana, São Paulo - SP, Brasil",BR-SP,29 Oct 2021,L21557006,S122549239
+113,anu-preto - Crotophaga ani,,"Departamento de Jornalismo e Editoração - CJE - Butantã, São Paulo - SP, 05466, Brasil",BR-SP,27 Feb 2020,L21557007,S122549240
+114,ganso-bravo - Anser anser,,Londres,GB-ENG,03 Sep 2019,L21557008,S122549241
+115,corrupião - Icterus jamacaii,,Governador Lindenberg,BR-ES,26 Dec 2015,L21557009,S122549242
+116,gralha-cinzenta - Corvus cornix,,Schönbrunn,AT-9,01 Oct 2013,L21557010,S122549243
+117,quero-quero - Vanellus chilensis,,"Foz do Iguaçu, PR, Brasil",BR-PR,11 Oct 2010,L21535223,S122412262
+118,guará - Eudocimus ruber,,"Belém, PA, Brasil",BR-PA,08 Jan 2009,L21535171,S122411894
+119,avoante - Zenaida auriculata,,"Fernando de Noronha - PE, Brasil",BR-PE,07 Jan 2008,L21557013,S122549246
