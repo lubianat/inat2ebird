@@ -21,7 +21,7 @@ def save_all_observations_from_user(user_id, only_new_taxa=False):
     date = "2022-10-15"
     url = (
         f"https://api.inaturalist.org/v1/observations?taxon_id=3&user_id={user_id}"
-        f"&created_d2={date}&quality_grade=research&per_page=200&order=desc&order_by=observed_on"
+        f"&quality_grade=research&per_page=200&order=desc&order_by=observed_on"
     )
 
     r = requests.get(url)
