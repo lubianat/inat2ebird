@@ -1,36 +1,49 @@
+import sys
+import csv
+import requests
+import pandas as pd
+from pathlib import Path
+from tqdm import tqdm
 from observation2ebird import *
 
-from tqdm import tqdm
-
-from pathlib import Path
-import pandas as pd
-
+# Set the current directory
 HERE = Path(__file__).parent.resolve()
 
 
 def main():
-    try:
-        user_id = sys.argv[1]
-    except:
-        user_id = input("Enter the iNaturalist user id:")
-
+    user_id = get_user_id()
     save_all_observations_from_user(user_id, only_new_taxa=True)
 
 
+def get_user_id():
+    try:
+        return sys.argv[1]
+    except:
+        return input("Enter the iNaturalist user id:")
+
+
 def save_all_observations_from_user(user_id, only_new_taxa=False):
-    date = "2022-10-15"
-    url = (
-        f"https://api.inaturalist.org/v1/observations?taxon_id=3&user_id={user_id}"
-        f"&quality_grade=research&per_page=200&order=desc&order_by=observed_on"
-    )
+    data = fetch_inaturalist_data(user_id)
+    life_list = load_ebird_life_list()
 
-    r = requests.get(url)
-    data = r.json()
+    entries = generate_entries(data, life_list, only_new_taxa)
+    write_entries_to_csv(entries, user_id)
 
+
+def fetch_inaturalist_data(user_id):
+    url = f"https://api.inaturalist.org/v1/observations?taxon_id=3&user_id={user_id}&quality_grade=research&per_page=200&order=desc&order_by=observed_on"
+    response = requests.get(url)
+    return response.json()
+
+
+def load_ebird_life_list():
     life_list_df = pd.read_csv(
         HERE.joinpath("ebird_world_life_list_tiago_lubiana_manual_download.csv")
     )
-    life_list = [a.split(" - ")[1] for a in life_list_df["Species"]]
+    return [a.split(" - ")[1] for a in life_list_df["Species"]]
+
+
+def generate_entries(data, life_list, only_new_taxa):
     entries = []
     for observation in tqdm(data["results"]):
         species = observation["taxon"]["name"]
@@ -41,9 +54,17 @@ def save_all_observations_from_user(user_id, only_new_taxa=False):
             entry = generate_entry_from_observation_data(observation)
             entries.append(entry)
         except Exception as e:
-            with open("log.txt", "a") as f:
-                f.write(f"Error '{e}' with entry {observation['id']}\n")
-    filename = f"all_bird_entries_{user_id}_before_{date}.csv"
+            log_error(e, observation)
+    return entries
+
+
+def log_error(error, observation):
+    with open("log.txt", "a") as f:
+        f.write(f"Error '{error}' with entry {observation['id']}\n")
+
+
+def write_entries_to_csv(entries, user_id):
+    filename = f"all_bird_entries_{user_id}.csv"
     with open(filename, "w", newline="\n") as f:
         writer = csv.writer(f)
         for entry in entries:
