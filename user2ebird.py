@@ -22,9 +22,11 @@ def get_user_id():
         return input("Enter the iNaturalist user id:")
 
 
-def save_all_observations_from_user(user_id, only_new_taxa=False):
+def save_all_observations_from_user(
+    user_id, only_new_taxa=False, path_to_life_list="ebird_world_life_list.csv"
+):
     data = fetch_inaturalist_data(user_id)
-    life_list = load_ebird_life_list()
+    life_list = load_ebird_life_list(path_to_life_list)
 
     entries = generate_entries(data, life_list, only_new_taxa)
     write_entries_to_csv(entries, user_id)
@@ -36,11 +38,9 @@ def fetch_inaturalist_data(user_id):
     return response.json()
 
 
-def load_ebird_life_list():
-    life_list_df = pd.read_csv(
-        HERE.joinpath("ebird_world_life_list_tiago_lubiana_manual_download.csv")
-    )
-    return [a.split(" - ")[1] for a in life_list_df["Species"]]
+def load_ebird_life_list(path_to_list="ebird_world_life_list.csv"):
+    life_list_df = pd.read_csv(HERE.joinpath(path_to_list))
+    return [a for a in life_list_df["Scientific Name"]]
 
 
 def generate_entries(data, life_list, only_new_taxa):
@@ -54,6 +54,7 @@ def generate_entries(data, life_list, only_new_taxa):
             entry = generate_entry_from_observation_data(observation)
             entries.append(entry)
         except Exception as e:
+            print(e)
             log_error(e, observation)
     return entries
 
@@ -72,4 +73,14 @@ def write_entries_to_csv(entries, user_id):
 
 
 if __name__ == "__main__":
+    print(
+        "Make sure you download your life list from https://ebird.org/lifelist?time=life&r=world as 'ebird_world_life_list.csv'"
+    )
+
+    print(
+        "Also make sure you get add to observation2ebird your valid eBird API key (https://ebird.org/api/keygen)"
+    )
     main()
+    print(
+        "Your new entries have been parsed into a spreadsheet! Upload it in the ebird record format at https://ebird.org/import/upload.form?theme=ebird."
+    )

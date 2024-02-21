@@ -15,6 +15,8 @@ quantity_on_hand: int = 0
 
 country_dict = {"Brasil": "BR", "Espanha": "ES"}
 
+EBIRD_API_KEY = "4rpem0ekb32t"
+
 
 @dataclass
 class eBirdEntry:
@@ -47,7 +49,7 @@ def main():
     except:
         inaturalist_id = input("Enter the iNaturalist observation id:")
 
-    entry = generate_entry_from_id(inaturalist_id)
+    entry = generate_entry_from_id(inaturalist_id, EBIRD_API_KEY)
     filename = "items.csv"
     with open(filename, "w", newline="") as f:
         writer = csv.writer(f)
@@ -80,19 +82,19 @@ def write_row_for_entry(entry, writer):
     )
 
 
-def generate_entry_from_id(inaturalist_id):
+def generate_entry_from_id(inaturalist_id, EBIRD_API_KEY):
     base_url = "https://api.inaturalist.org/v1/"
     observation_url = base_url + f"observations/{inaturalist_id}"
 
     result = requests.get(observation_url)
     data = result.json()
     observation_data = data["results"][0]
-    entry = generate_entry_from_observation_data(observation_data)
+    entry = generate_entry_from_observation_data(observation_data, EBIRD_API_KEY)
 
     return entry
 
 
-def generate_entry_from_observation_data(observation_data):
+def generate_entry_from_observation_data(observation_data, EBIRD_API_KEY=EBIRD_API_KEY):
     inaturalist_id = observation_data["id"]
     date_inat = observation_data["time_observed_at"][:-6]  # Remove time zone
     date = datetime.strptime(date_inat, "%Y-%m-%dT%H:%M:%S")
@@ -104,9 +106,11 @@ def generate_entry_from_observation_data(observation_data):
     latitude = observation_data["location"].split(",")[0]
     longitude = observation_data["location"].split(",")[1]
     taxon_data = observation_data["taxon"]
-
-    location_guess = requests.get(
+    location_url = (
         f"https://api.ebird.org/v2/ref/hotspot/geo?lat={latitude}&lng={longitude}"
+    )
+    location_guess = requests.get(
+        location_url, headers={"X-eBirdApiToken": EBIRD_API_KEY}
     )
     country_code = location_guess.text.split(",")[1]
     regional_code = location_guess.text.split(",")[2].split("-")[1]
