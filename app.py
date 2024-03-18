@@ -44,6 +44,7 @@ def index():
                 user_id,
                 only_new_taxa=True,
                 path_to_life_list=f"{UPLOAD_FOLDER}/ebird_world_life_list.csv",
+                base_dir=UPLOAD_FOLDER,
             )
     return render_template_string(
         """
@@ -93,9 +94,10 @@ def submit():
         filepath = os.path.join(app.config["UPLOAD_FOLDER"], filename)
         file.save(filepath)
         try:
-            output_filename = save_all_observations_from_user(
-                user_id, filepath, only_new_taxa=True
+            save_all_observations_from_user(
+                user_id, filepath, only_new_taxa=True, base_dir=UPLOAD_FOLDER
             )
+            output_filename = f"all_bird_entries_{user_id}.csv"
             flash(f"Entries saved to {output_filename}")
             flash("Click the link below to download your entries.")
             return render_template_string(

@@ -1,308 +1,325 @@
 Row #,Taxon Order,Category,Common Name,Scientific Name,Count,Location,S/P,Date,LocID,SubID,Exotic,Countable
-1,16126,species,ferreirinho-relógio,Todirostrum cinereum,2,Mandacaru Suítes - Itamambuca,BR-SP,05 Jan 2024,L28649348,S158149464,,1
-2,13554,species,chorozinho-de-asa-vermelha,Herpsilochmus rufimarginatus,2,Mandacaru Suítes - Itamambuca,BR-SP,05 Jan 2024,L28649348,S158149464,,1
-3,3553,species,bacurau,Nyctidromus albicollis,1,Sítio do Engenho,BR-SP,05 Sep 2023,L21434561,S149095633,,1
-4,12587,species,periquito-de-encontro-amarelo,Brotogeris chiriri,2,Jardins do ICC (UnB),BR-DF,29 Aug 2023,L26813360,S148364131,,1
-5,7568,species,curicaca,Theristicus caudatus,1,CEM Asa Norte,BR-DF,29 Aug 2023,L26813179,S148363264,,1
-6,12696,species,papagaio-verdadeiro,Amazona aestiva,1,São Paulo--Praça Pôr do Sol,BR-SP,25 Aug 2023,L10971805,S148071395,,1
-7,5385,species,saracura-sanã,Pardirallus nigricans,1,Sítio do Engenho,BR-SP,11 Aug 2023,L21434561,S146971207,,1
-8,75,species,inhambuguaçu,Crypturellus obsoletus,1,Sítio do Engenho,BR-SP,11 Aug 2023,L21434561,S146971207,,1
-9,11704,species,acauã,Herpetotheres cachinnans,1,Sítio do Engenho,BR-SP,09 Aug 2023,L21434561,S146832995,,1
-10,3611,species,joão-corta-pau,Antrostomus rufus,1,Sítio do Engenho,BR-SP,25 Jul 2023,L21434561,S145613862,,1
-11,32095,species,american goldfinch,Spinus tristis,1,Toronto--High Park,CA-ON,09 Jul 2023,L11,S144042766,,1
-12,21676,species,black-capped chickadee,Poecile atricapillus,2,Toronto--High Park,CA-ON,09 Jul 2023,L11,S144042766,,1
-13,11175,species,downy woodpecker,Dryobates pubescens,1,Toronto--High Park,CA-ON,09 Jul 2023,L11,S144042766,,1
-14,10022,species,guarda-rios-cintado,Megaceryle alcyon,2,Toronto--High Park,CA-ON,09 Jul 2023,L11,S144042766,,1
-15,33327,species,common grackle,Quiscalus quiscula,1,Toronto--Spadina Quay wetlands,CA-ON,09 Jul 2023,L7424560,S144008681,,1
-17,324,species,ganso-do-canadá,Branta canadensis,10,Toronto--HTO Park West,CA-ON,09 Jul 2023,L14162082,S144006192,,1
-18,33251,species,red-winged blackbird,Agelaius phoeniceus,3,Toronto--Harbour Square Park,CA-ON,09 Jul 2023,L450752,S144000353,,1
-19,28096,species,tordo-americano,Turdus migratorius,1,Toronto--Roundhouse Park,CA-ON,09 Jul 2023,L8905862,S143996337,,1
-21,28029,species,sabiá-coleira,Turdus albicollis,1,Sítio do Engenho,BR-SP,30 Jun 2023,L21434561,S143165263,,1
-22,14331,species,arapaçu-verde,Sittasomus griseicapillus,1,Sítio do Engenho,BR-SP,26 Jun 2023,L21434561,S142860533,,1
-23,7840,species,gavião-pega-macaco,Spizaetus tyrannus,1,Sítio do Engenho,BR-SP,26 Jun 2023,L21434561,S142772673,,1
-24,9346,species,surucuá-variado,Trogon surrucura,2,Sítio do Engenho,BR-SP,26 Jun 2023,L21434561,S142770049,,1
-25,7364,species,savacu-de-coroa,Nyctanassa violacea,7,Florianópolis--Manguezal do Itacorubi,BR-SC,24 Jun 2023,L21263156,S142551244,,1
-26,31369,species,caminheiro-zumbidor,Anthus chii,2,PNM das Dunas da Lagoa da Conceição--lagoas,BR-SC,24 Jun 2023,L3689144,S142546559,,1
-27,30784,species,bico-de-lacre,Estrilda astrild,7,PNM das Dunas da Lagoa da Conceição--lagoas,BR-SC,24 Jun 2023,L3689144,S142546559,N,1
-29,16388,species,guaracava-de-barriga-amarela,Elaenia flavogaster,1,PNM das Dunas da Lagoa da Conceição--lagoas,BR-SC,24 Jun 2023,L3689144,S142546559,,1
-30,11694,species,pica-pau-do-campo,Colaptes campestris,1,PNM das Dunas da Lagoa da Conceição--lagoas,BR-SC,24 Jun 2023,L3689144,S142546559,,1
-31,7944,species,gavião-do-banhado,Circus buffoni,1,PNM das Dunas da Lagoa da Conceição--lagoas,BR-SC,24 Jun 2023,L3689144,S142546559,,1
-32,569,species,marreca-parda,Anas georgica,2,PNM das Dunas da Lagoa da Conceição--lagoas,BR-SC,24 Jun 2023,L3689144,S142546559,,1
-33,551,species,marreca-toicinho,Anas bahamensis,2,PNM das Dunas da Lagoa da Conceição--lagoas,BR-SC,24 Jun 2023,L3689144,S142546559,,1
-34,33476,species,pia-cobra-do-sul,Geothlypis velata,1,PE do Rio Vermelho--sede,BR-SC,24 Jun 2023,L21155795,S142532439,,1
-35,20862,species,gralha-azul,Cyanocorax caeruleus,4,PE do Rio Vermelho--sede,BR-SC,24 Jun 2023,L21155795,S142532439,,1
-36,10852,species,picapauzinho-de-coleira,Picumnus temminckii,1,PE do Rio Vermelho--sede,BR-SC,24 Jun 2023,L21155795,S142532439,,1
-37,5136,species,beija-flor-de-garganta-verde,Chionomesa fimbriata,1,PE do Rio Vermelho--sede,BR-SC,24 Jun 2023,L21155795,S142532439,,1
-38,3822,species,taperuçu-de-coleira-branca,Streptoprocne zonaris,1,PE do Rio Vermelho--sede,BR-SC,24 Jun 2023,L21155795,S142532439,,1
-39,7172,species,atobá-pardo,Sula leucogaster,3,ESEC de Carijós--Pontal da Daniela,BR-SC,24 Jun 2023,L3846905,S142524019,,1
-40,6713,species,trinta-réis-de-bando,Thalasseus sandvicensis,7,ESEC de Carijós--Pontal da Daniela,BR-SC,24 Jun 2023,L3846905,S142524019,,1
-41,6643,species,trinta-réis-pequeno,Sternula superciliaris,3,ESEC de Carijós--Pontal da Daniela,BR-SC,24 Jun 2023,L3846905,S142524019,,1
-42,6567,species,talha-mar,Rynchops niger,28,ESEC de Carijós--Pontal da Daniela,BR-SC,24 Jun 2023,L3846905,S142524019,,1
-44,5770,species,piru-piru,Haematopus palliatus,3,ESEC de Carijós--Pontal da Daniela,BR-SC,24 Jun 2023,L3846905,S142524019,,1
-45,5741,species,pernilongo-de-costas-negras/de-costas-brancas,Himantopus mexicanus,5,ESEC de Carijós--Pontal da Daniela,BR-SC,24 Jun 2023,L3846905,S142524019,,1
-46,5414,species,saracura-três-potes,Aramides cajaneus,2,ESEC de Carijós--Pontal da Daniela,BR-SC,24 Jun 2023,L3846905,S142524019,,1
-47,835,species,aracuã-escamoso,Ortalis squamata,3,ESEC de Carijós--Pontal da Daniela,BR-SC,24 Jun 2023,L3846905,S142518270,,1
-48,6490,species,gaivotão,Larus dominicanus,2,Florianópolis--Jurerê,BR-SC,23 Jun 2023,L11683201,S142472594,,1
-49,10028,species,martim-pescador-verde,Chloroceryle amazona,1,Universidade de São Paulo--Raia Olímpica,BR-SP,21 Jun 2023,L8365520,S142292246,,1
-53,13212,species,choró-boi,Taraba major,1,FLONA Ipanema--Vila de São João,BR-SP,17 Jun 2023,L9794343,S141978611,,1
-54,31504,species,gaturamo-verdadeiro,Euphonia violacea,1,Sítio do Engenho,BR-SP,05 Jun 2023,L21434561,S140621051,,1
-55,16170,species,bico-chato-de-orelha-preta,Tolmomyias sulphurescens,1,Sítio do Engenho,BR-SP,03 Jun 2023,L21434561,S140329540,,1
-56,13687,species,papa-taoca-do-sul,Pyriglena leucoptera,2,Sítio do Engenho,BR-SP,27 May 2023,L21434561,S139396105,,1
-57,15302,species,pichororé,Synallaxis ruficapilla,1,Sítio do Engenho,BR-SP,26 May 2023,L21434561,S139350860,,1
-58,11708,species,falcão-relógio,Micrastur semitorquatus,1,Sítio do Engenho,BR-SP,26 May 2023,L21434561,S139350860,,1
-59,20948,species,gaio,Garrulus glandarius,2,Athens National Garden (Εθνικός Κήπος),GR-I,22 May 2023,L2694540,S138805724,,1
-60,31018,species,pardal,Passer domesticus,20,Ancient Agora,GR-I,21 May 2023,L3768415,S138624282,,1
-61,9394,species,poupa,Upupa epops,1,Ancient Agora,GR-I,21 May 2023,L3768415,S138624282,,1
-62,4078,species,andorinhão-pálido,Apus pallidus,2,Ancient Agora,GR-I,21 May 2023,L3768415,S138624282,,1
-63,5000,species,beija-flor-tesoura,Eupetomena macroura,,"Araçariguama, SP, 18147-000, Brasil",BR-SP,20 May 2023,L24972350,S140624680,,1
-64,30998,species,ferreirinha,Prunella modularis,1,Parc départemental du Sausset,FR-IDF,18 May 2023,L6577786,S138211026,,1
-65,24786,species,chapim-rabilongo,Aegithalos caudatus,6,Parc départemental du Sausset,FR-IDF,18 May 2023,L6577786,S138211026,,1
-66,24432,species,felosinha-comum,Phylloscopus collybita,1,Parc départemental du Sausset,FR-IDF,18 May 2023,L6577786,S138211026,,1
-67,23636,species,andorinha-do-barranco,Riparia riparia,6,Parc départemental du Sausset,FR-IDF,18 May 2023,L6577786,S138211026,,1
-68,23263,species,rouxinol-pequeno-dos-caniços,Acrocephalus scirpaceus,3,Parc départemental du Sausset,FR-IDF,18 May 2023,L6577786,S138211026,,1
-69,21186,species,gralha-preta,Corvus corone,1,Parc départemental du Sausset,FR-IDF,18 May 2023,L6577786,S138211026,,1
-70,21076,species,pega,Pica pica,8,Parc départemental du Sausset,FR-IDF,18 May 2023,L6577786,S138211026,,1
-71,12111,species,periquito-rabijunco,Psittacula krameri,4,Parc départemental du Sausset,FR-IDF,18 May 2023,L6577786,S138211026,N,1
-72,7224,species,corvo-marinho-comum,Phalacrocorax carbo,1,Parc départemental du Sausset,FR-IDF,18 May 2023,L6577786,S138211026,,1
-73,6686,species,trinta-réis-boreal,Sterna hirundo,2,Parc départemental du Sausset,FR-IDF,18 May 2023,L6577786,S138211026,,1
-74,5461,species,galeirão-comum,Fulica atra,2,Parc départemental du Sausset,FR-IDF,18 May 2023,L6577786,S138211026,,1
-75,1848,species,mergulhão-de-crista,Podiceps cristatus,4,Parc départemental du Sausset,FR-IDF,18 May 2023,L6577786,S138211026,,1
-76,1804,species,mergulhão-pequeno-europeu,Tachybaptus ruficollis,1,Parc départemental du Sausset,FR-IDF,18 May 2023,L6577786,S138211026,,1
-78,15750,species,caneleiro-preto,Pachyramphus polychopterus,1,Sítio do Engenho,BR-SP,01 May 2023,L21434561,S135661822,,1
-79,14287,species,vira-folha/vira-folha-cearense,Sclerurus scansor,1,Sítio do Engenho,BR-SP,01 May 2023,L21434561,S135661822,,1
-80,8235,species,gavião-carijó,Rupornis magnirostris,1,Sítio do Engenho,BR-SP,01 May 2023,L21434561,S135661822,,1
-81,3032,species,peixe-frito-pavonino,Dromococcyx pavoninus,1,Sítio do Engenho,BR-SP,01 May 2023,L21434561,S135661822,,1
-82,130,species,inhambu-chintã,Crypturellus tataupa,1,Sítio do Engenho,BR-SP,01 May 2023,L21434561,S135661822,,1
-83,13204,species,borralhara,Mackenziaena severa,1,Sítio do Engenho,BR-SP,30 Apr 2023,L21434561,S135518673,,1
-84,10922,species,pica-pau-branco,Melanerpes candidus,1,Sítio do Engenho,BR-SP,30 Apr 2023,L21434561,S135518673,,1
-85,24843,species,toutinegra-de-barrete,Sylvia atricapilla,3,Giardini Pubblici di Venezia,IT-34,27 Apr 2023,L1626157,S135252104,,1
-86,7575,species,african sacred ibis,Threskiornis aethiopicus,1,Venezia (area generale),IT-34,27 Apr 2023,L1272698,S135252160,N,1
-87,10205,species,barbudo-rajado/rajado-pequeno,Malacoptila striata,,"Araçariguama, SP, 18147-000, Brasil",BR-SP,23 Apr 2023,L24972350,S140624681,,1
-88,7421,species,garça-pequena-europeia,Egretta garzetta,,"San Polo, 30100 Venice, Metropolitan City of Venice, Ιταλία",IT-34,20 Apr 2023,L23959416,S135669912,,1
-89,32050,species,milheirinha-europeia,Serinus serinus,,"San Polo, 30100 Venice, Metropolitan City of Venice, Ιταλία",IT-34,20 Apr 2023,L23959416,S135669913,,1
-90,11757,species,peneireiro-de-dorso-malhado,Falco tinnunculus,,"Padua City Centre, Padua, Province of Padua, Ιταλία",IT-34,19 Apr 2023,L23959418,S135669916,,1
-91,9629,species,guarda-rios,Alcedo atthis,,"Padua City Centre, Padua, Province of Padua, Ιταλία",IT-34,19 Apr 2023,L23959418,S135669917,,1
-92,21786,species,chapim-real,Parus major,,"Padua City Centre, Padua, Province of Padua, Ιταλία",IT-34,19 Apr 2023,L23959418,S135669919,,1
-94,33183,species,encontro,Icterus pyrrhopterus,,"Puerto Madero, Città Autonoma di Buenos Aires, Argentina",AR-C,16 Apr 2023,L23959417,S135669926,,1
-95,5436,species,galinha-d'água-europeia,Gallinula chloropus,,"Padua City Centre, Padua, Province of Padua, Italia",IT-34,16 Apr 2023,L23959420,S135669931,,1
-96,35278,species,bico-duro,Saltator aurantiirostris,3,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
-97,33393,species,asa-de-telha,Agelaioides badius,5,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
-98,26647,species,balança-rabo-de-máscara,Polioptila dumicola,5,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
-99,16445,species,alegrinho,Serpophaga subcristata,2,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
-100,16444,species,joão-pobre,Serpophaga nigricans,1,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
-101,15257,species,curutié,Certhiaxis cinnamomeus,3,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
-102,14644,species,arapaçu-de-cerrado,Lepidocolaptes angustirostris,2,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
-103,12878,species,periquito-de-cabeça-preta,Aratinga nenday,15,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,N,1
-104,12576,species,caturrita,Myiopsitta monachus,6,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
-105,8250,species,gavião-asa-de-telha,Parabuteo unicinctus,4,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
-106,7552,species,caraúna,Plegadis chihi,7,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
-107,5486,species,carqueja-de-bico-amarelo,Fulica leucoptera,2,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
-108,5460,species,carqueja-de-bico-manchado,Fulica armillata,3,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
-109,5457,species,carqueja-de-escudo-vermelho,Fulica rufifrons,40,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
-110,5424,species,galinha-d'água-carijó,Porphyriops melanops,2,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
-111,1831,species,mergulhão-caçador,Podilymbus podiceps,1,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
-112,1798,species,mergulhão-de-orelha-branca,Rollandia rolland,12,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
-113,744,species,marreca-rabo-de-espinho,Oxyura vittata,8,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
-114,626,species,marrecão,Netta peposaca,16,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
-115,591,species,marreca-pardinha,Anas flavirostris,3,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
-116,456,species,marreca-cricri,Spatula versicolor,10,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
-117,432,species,marreca-de-coleira,Callonetta leucophrys,3,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
-118,376,species,capororoca,Coscoroba coscoroba,3,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
-119,362,species,cisne-de-pescoço-preto,Cygnus melancoryphus,6,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
-120,224,species,tachã,Chauna torquata,6,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
-121,11735,species,chimango,Daptrius chimango,,"Puerto Madero, Città Autonoma di Buenos Aires, Argentina",AR-C,12 Apr 2023,L23959417,S135669934,,1
-122,15412,species,tangará,Chiroxiphia caudata,2,Sítio do Engenho,BR-SP,03 Apr 2023,L21434561,S132573773,,1
-123,2298,species,rolinha-picuí,Columbina picui,2,Ponta Negra--Praia de Ponta Negra,BR-RN,30 Mar 2023,L22809384,S132758310,,1
-124,6091,species,maçarico-pintado,Actitis macularius,1,Ponta Negra--Praia de Ponta Negra,BR-RN,29 Mar 2023,L22809384,S132110462,,1
-125,14999,species,barranqueiro-de-olho-branco,Automolus leucophthalmus,1,"Araçariguama, SP, 18147-000, Brasil",BR-SP,20 Mar 2023,L21565473,S131357981,,1
-126,13317,species,choca-da-mata,Thamnophilus caerulescens,1,"Araçariguama, SP, 18147-000, Brasil",BR-SP,20 Mar 2023,L21565473,S131357981,,1
-128,16850,species,lavadeira-de-cara-branca,Fluvicola albiventer,,"Patos, PB, Brasil",BR-PB,08 Mar 2023,L23959425,S135669941,,1
-130,5805,species,batuíra-de-bando,Charadrius semipalmatus,,"Barreiros, PE, Brasil",BR-PE,04 Mar 2023,L23959427,S135669943,,1
-131,5782,species,batuiruçu-de-axila-preta,Pluvialis squatarola,,"Barreiros, PE, Brasil",BR-PE,04 Mar 2023,L23959427,S135669944,,1
-132,5132,species,beija-flor-de-barriga-branca,Chrysuronia leucogaster,,"Tamandaré - PE, Brasil",BR-PE,02 Mar 2023,L23959428,S135669945,,1
-133,23651,species,andorinha-do-rio,Tachycineta albiventer,2,"1558-1758 Avenida José Bezerra Sobrinho, Pernambuco, BR (-8,734, -35,089)",BR-PE,01 Mar 2023,L25208344,S141626984,,1
-134,33704,species,pula-pula,Basileuterus culicivorus,1,"Araçariguama, SP, 18147-000, Brasil",BR-SP,24 Feb 2023,L21565473,S129488173,,1
-135,14514,species,arapaçu-rajado,Xiphorhynchus fuscus,1,"Araçariguama, SP, 18147-000, Brasil",BR-SP,24 Feb 2023,L21565473,S129488173,,1
-136,34083,species,cardeal,Paroaria coronata,2,Universidade de São Paulo--Praça do Relógio,BR-SP,17 Feb 2023,L8121084,S132758336,,1
-137,15315,species,joão-teneném,Synallaxis spixi,,"Araçariguama, SP, 18147-000, Brasil",BR-SP,30 Jan 2023,L23959421,S135669950,,1
-138,8926,species,coruja-buraqueira,Athene cunicularia,2,"972 Rua Joao De Candinha, São Paulo, BR (-23,577, -47,14)",BR-SP,28 Jan 2023,L22373035,S127087392,,1
-139,4308,species,rabo-branco-de-garganta-rajada,Phaethornis eurynome,,"Araçariguama, SP, 18147-000, Brasil",BR-SP,19 Jan 2023,L23959421,S135669951,,1
-140,31482,species,fim-fim,Euphonia chlorotica,1,Sítio do Engenho,BR-SP,18 Jan 2023,L21434561,S126423887,,1
-141,34452,species,saíra-amarela,Stilpnia cayana,1,Sítio do Engenho,BR-SP,12 Jan 2023,L21434561,S125980854,,1
-142,7562,species,tapicuru,Phimosus infuscatus,2,Sítio do Engenho,BR-SP,12 Jan 2023,L21434561,S125980854,,1
-146,855,species,jacupemba,Penelope superciliaris,,"Parque Industrial, Vitória - ES, Brasil",BR-ES,28 Dec 2022,L23959432,S135669955,,1
-148,27639,species,sabiá-da-praia,Mimus gilvus,4,Parque Pedra da Cebola,BR-ES,27 Dec 2022,L6340057,S124688398,,1
-149,17066,species,neinei,Megarynchus pitangua,1,Roça - Governador Lindenberg,BR-ES,26 Dec 2022,L21888521,S124641037,,1
-150,10677,species,araçari-de-bico-branco,Pteroglossus aracari,1,Roça - Governador Lindenberg,BR-ES,26 Dec 2022,L21888521,S124641037,,1
-151,834,species,aracuã-de-barriga-branca,Ortalis araucuan,1,Roça - Governador Lindenberg,BR-ES,26 Dec 2022,L21888521,S124612131,,1
-152,3023,species,anu-branco,Guira guira,1,Roça - Governador Lindenberg,BR-ES,25 Dec 2022,L21888521,S124569669,,1
-153,13273,species,choca-listrada,Thamnophilus palliatus,1,Roça - Governador Lindenberg,BR-ES,25 Dec 2022,L21888521,S124563263,,1
-155,2295,species,rolinha-fogo-apagou,Columbina squammata,1,Roça - Governador Lindenberg,BR-ES,25 Dec 2022,L21888521,S124563263,,1
-156,34084,species,cardeal-do-nordeste,Paroaria dominicana,1,"ES-245, Espírito Santo, BR (-19,245, -40,482)",BR-ES,23 Dec 2022,L21888875,S124486600,,1
-157,33134,species,guaxe,Cacicus haemorrhous,2,"ES-245, Espírito Santo, BR (-19,245, -40,482)",BR-ES,23 Dec 2022,L21888875,S124486600,,1
-158,3028,species,saci,Tapera naevia,1,"ES-245, Espírito Santo, BR (-19,245, -40,482)",BR-ES,23 Dec 2022,L21888875,S124486600,,1
-159,34958,species,bigodinho,Sporophila lineola,2,"ES-245, Espírito Santo, BR (-19,245, -40,482)",BR-ES,23 Dec 2022,L21888875,S124481163,,1
-160,12887,species,maracanã,Primolius maracana,1,"ES-245, Espírito Santo, BR (-19,245, -40,482)",BR-ES,23 Dec 2022,L21888875,S124481163,,1
-161,7631,species,urubu-de-cabeça-amarela,Cathartes burrovianus,1,Roça - Governador Lindenberg,BR-ES,23 Dec 2022,L21888521,S124468745,,1
-162,231,species,irerê,Dendrocygna viduata,5,Sítio do Engenho,BR-SP,03 Dec 2022,L21434561,S123778494,,1
-163,11595,species,pica-pau-de-cabeça-amarela,Celeus flavescens,1,São Paulo--Praça Pôr do Sol,BR-SP,12 Nov 2022,L10971805,S122277458,,1
-164,33291,species,chupim,Molothrus bonariensis,5,Universidade de São Paulo--Praça do Relógio,BR-SP,11 Nov 2022,L8121084,S122239640,,1
-165,17048,species,suiriri-cavaleiro,Machetornis rixosa,1,Universidade de São Paulo--Praça do Relógio,BR-SP,11 Nov 2022,L8121084,S122239640,,1
-166,10732,species,tucano-de-bico-verde,Ramphastos dicolorus,3,Universidade de São Paulo--Praça do Relógio,BR-SP,11 Nov 2022,L8121084,S122239640,,1
-167,3888,species,andorinhão-do-temporal,Chaetura meridionalis,1,Sítio do Engenho,BR-SP,10 Nov 2022,L21434561,S122165037,,1
-168,2340,species,juriti-pupu,Leptotila verreauxi,,Sítio do Engenho,BR-SP,10 Nov 2022,L21434561,S122165037,,1
-169,32115,species,pintassilgo,Spinus magellanicus,1,Sítio do Engenho,BR-SP,09 Nov 2022,L21434561,S122139958,,1
-170,28123,species,sabiá-poca,Turdus amaurochalinus,,Sítio do Engenho,BR-SP,09 Nov 2022,L21434561,S122139958,,1
-171,873,species,jacuguaçu,Penelope obscura,2,Sítio do Engenho,BR-SP,09 Nov 2022,L21434561,S122115800,,1
-172,27612,species,sabiá-do-campo,Mimus saturninus,1,Sítio do Engenho,BR-SP,06 Nov 2022,L21434561,S121959603,,1
-173,18704,species,pitiguari,Cyclarhis gujanensis,,Sítio do Engenho,BR-SP,06 Nov 2022,L21434561,S121959603,,1
-174,11657,species,pica-pau-verde-barrado,Colaptes melanochloros,1,Sítio do Engenho,BR-SP,05 Nov 2022,L21434561,S122018582,,1
-175,7927,species,sovi,Ictinia plumbea,1,Sítio do Engenho,BR-SP,05 Nov 2022,L21434561,S121891899,,1
-176,10705,species,tucanuçu,Ramphastos toco,1,Pesqueiro Megalodon,BR-SP,05 Nov 2022,L21448117,S121886433,,1
-177,34918,species,canário-da-terra,Sicalis flaveola,1,Sítio do Engenho,BR-SP,05 Nov 2022,L21434561,S121873909,,1
-178,5442,species,galinha-d'água,Gallinula galeata,1,Sítio do Engenho,BR-SP,05 Nov 2022,L21434561,S121873909,,1
-179,17116,species,bem-te-vi-rajado,Myiodynastes maculatus,2,Sítio do Engenho,BR-SP,04 Nov 2022,L21434561,S121848085,,1
-180,17176,species,tesourinha/tesourinha-do-norte,Tyrannus savana,2,Sítio do Engenho,BR-SP,04 Nov 2022,L21434561,S121829072,,1
-181,14763,species,joão-de-barro,Furnarius rufus,1,Sítio do Engenho,BR-SP,04 Nov 2022,L21434561,S121829072,,1
-182,11727,species,carcará,Caracara plancus,1,Sítio do Engenho,BR-SP,04 Nov 2022,L21434561,S121829072,,1
-183,439,species,marreca-ananaí,Amazonetta brasiliensis,2,Sítio do Engenho,BR-SP,04 Nov 2022,L21434561,S121829072,,1
-184,18914,species,juruviara,Vireo chivi,,Sítio do Engenho,BR-SP,04 Nov 2022,L21434561,S121824051,,1
-185,4942,species,beija-flor-de-fronte-violeta,Thalurania glaucopis,1,Sítio do Engenho,BR-SP,04 Nov 2022,L21434561,S121824051,,1
-186,35031,species,coleirinho,Sporophila caerulescens,1,Sítio do Engenho,BR-SP,03 Nov 2022,L21434561,S121809837,,1
-187,32629,species,tico-tico,Zonotrichia capensis,1,Sítio do Engenho,BR-SP,03 Nov 2022,L21434561,S121809837,,1
-188,23713,species,andorinha-pequena-de-casa,Pygochelidon cyanoleuca,,Sítio do Engenho,BR-SP,03 Nov 2022,L21434561,S121809837,,1
-189,12955,species,periquitão,Psittacara leucophthalmus,5,Sítio do Engenho,BR-SP,03 Nov 2022,L21434561,S121809837,,1
-190,7561,species,coró-coró,Mesembrinibis cayennensis,1,Sítio do Engenho,BR-SP,03 Nov 2022,L21434561,S121809837,,1
-191,7398,species,maria-faceira,Syrigma sibilatrix,1,Sítio do Engenho,BR-SP,03 Nov 2022,L21434561,S121809837,,1
-192,5419,species,saracura-do-mato,Aramides saracura,1,Sítio do Engenho,BR-SP,03 Nov 2022,L21434561,S121809837,,1
-193,1969,species,pomba-asa-branca,Patagioenas picazuro,2,Sítio do Engenho,BR-SP,03 Nov 2022,L21434561,S121809837,,1
-194,34394,species,sanhaço-cinzento,Thraupis sayaca,3,Parque Eduardo Guinle,BR-RJ,30 Oct 2022,L11532167,S121561443,,1
-195,12768,species,tiriba-de-testa-vermelha,Pyrrhura frontalis,1,Parque Eduardo Guinle,BR-RJ,30 Oct 2022,L11532167,S121561443,,1
-197,27995,species,sabiá-barranco,Turdus leucomelas,,"74 Rua Soares Cabral, Rio de Janeiro, BR (-22,937, -43,186)",BR-RJ,29 Oct 2022,L21387228,S121521894,,1
-198,35086,species,cambacica,Coereba flaveola,,Parque Eduardo Guinle,BR-RJ,29 Oct 2022,L11532167,S121522131,,1
-199,28039,species,sabiá-laranjeira,Turdus rufiventris,1,Parque Eduardo Guinle,BR-RJ,29 Oct 2022,L11532167,S121522131,,1
-200,7260,species,biguá,Nannopterum brasilianum,1,Parque Eduardo Guinle,BR-RJ,29 Oct 2022,L11532167,S121522131,,1
-201,2286,species,rolinha-roxa,Columbina talpacoti,1,Parque Eduardo Guinle,BR-RJ,29 Oct 2022,L11532167,S121522131,,1
-202,1874,species,pombo-doméstico,Columba livia,17,Parque Eduardo Guinle,BR-RJ,29 Oct 2022,L11532167,S121522131,N,1
-203,423,species,pato-do-mato,Cairina moschata,,Parque Eduardo Guinle,BR-RJ,29 Oct 2022,L11532167,S121522131,,1
-204,34499,species,plain-colored tanager,Tangara inornata,2,Gamboa (town),PA-3,26 Oct 2022,L454673,S121662529,,1
-205,33557,species,mariquita-amarela,Setophaga petechia,1,Gamboa (town),PA-3,26 Oct 2022,L454673,S121662529,,1
-206,35001,species,variable seedeater,Sporophila corvina,2,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,1
-207,34951,species,tiziu,Volatinia jacarina,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,1
-208,34402,species,sanhaço-do-coqueiro,Thraupis palmarum,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,1
-209,34080,species,papa-capim-americano,Spiza americana,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,1
-210,33426,species,abana-rabo-de-baixada,Parkesia noveboracensis,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,1
-211,23772,species,andorinha-de-bando,Hirundo rustica,15,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,1
-212,23701,species,andorinha-serradora,Stelgidopteryx ruficollis,10,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,1
-213,17079,species,bentevizinho-de-penacho-vermelho,Myiozetetes similis,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,1
-214,17055,species,bem-te-vi,Pitangus sulphuratus,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,1
-216,13237,species,choca-barrada/choca-barrada-do-nordeste,Thamnophilus doliatus,2,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,1
-217,11519,species,pica-pau-de-banda-branca,Dryocopus lineatus,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,1
-218,7514,species,garça-azul-grande,Ardea herodias,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,1
-219,7469,species,socó-mirim,Butorides virescens,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,1
-220,7401,species,garça-azul,Egretta caerulea,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,1
-221,6188,species,maçarico-de-colete,Calidris melanotos,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,1
-222,5613,species,white-throated crake,Laterallus albigularis,4,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,1
-223,5489,species,frango-d'água-azul,Porphyrio martinica,2,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,1
-225,42,species,inhambu-serra,Tinamus major,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,1
-226,27179,species,song wren,Cyphorhinus phaeocephalus,7,Pipeline Road,PA-3,25 Oct 2022,L8603093,S121386102,,1
-227,16615,species,piuí-verdadeiro-do-leste,Contopus virens,7,Pipeline Road,PA-3,25 Oct 2022,L8603093,S121386102,,1
-228,15884,species,patinho-de-coroa-dourada,Platyrinchus coronatus,1,Pipeline Road,PA-3,25 Oct 2022,L8603093,S121386102,,1
-229,14539,species,cocoa woodcreeper,Xiphorhynchus susurrans,2,Pipeline Road,PA-3,25 Oct 2022,L8603093,S121386102,,1
-230,11553,species,cinnamon woodpecker,Celeus loricatus,4,Pipeline Road,PA-3,25 Oct 2022,L8603093,S121386102,,1
-231,10170,species,black-breasted puffbird,Notharchus pectoralis,3,Pipeline Road,PA-3,25 Oct 2022,L8603093,S121386102,,1
-232,8293,species,gavião-de-asa-larga,Buteo platypterus,3,Pipeline Road,PA-3,25 Oct 2022,L8603093,S121386102,,1
-233,7922,species,gavião-ripina,Harpagus bidentatus,2,Pipeline Road,PA-3,25 Oct 2022,L8603093,S121386102,,1
-234,6743,species,pavãozinho-do-pará,Eurypyga helias,1,Pipeline Road,PA-3,25 Oct 2022,L8603093,S121386102,,1
-235,3762,species,urutau-grande,Nyctibius grandis,1,Pipeline Road,PA-3,25 Oct 2022,L8603093,S121386102,,1
-236,10017,species,martim-pescador-grande,Megaceryle torquata,1,Lago Gatún,PA-3,24 Oct 2022,L5377870,S121386092,,1
-237,9601,species,juruva-ruiva,Baryphthengus martii,1,Lago Gatún,PA-3,24 Oct 2022,L5377870,S121386092,,1
-238,9311,species,slaty-tailed trogon,Trogon massena,2,Lago Gatún,PA-3,24 Oct 2022,L5377870,S121386092,,1
-239,7917,species,gavião-caramujeiro,Rostrhamus sociabilis,5,Lago Gatún,PA-3,24 Oct 2022,L5377870,S121386092,,1
-240,7640,species,águia-pescadora,Pandion haliaetus,1,Lago Gatún,PA-3,24 Oct 2022,L5377870,S121386092,,1
-241,7523,species,garça-moura,Ardea cocoi,1,Lago Gatún,PA-3,24 Oct 2022,L5377870,S121386092,,1
-242,7491,species,garça-branca-grande,Ardea alba,3,Lago Gatún,PA-3,24 Oct 2022,L5377870,S121386092,,1
-243,5956,species,jaçanã,Jacana jacana,7,Lago Gatún,PA-3,24 Oct 2022,L5377870,S121386092,,1
-244,5642,species,carão,Aramus guarauna,2,Lago Gatún,PA-3,24 Oct 2022,L5377870,S121386092,,1
-245,3024,species,anu-coroca,Crotophaga major,3,Lago Gatún,PA-3,24 Oct 2022,L5377870,S121386092,,1
-246,7312,species,socó-boi,Tigrisoma lineatum,2,Ammo Dump Ponds,PA-3,23 Oct 2022,L1740339,S121386086,,1
-247,34598,species,saí-azul,Dacnis cayana,1,Gamboa (town),PA-3,23 Oct 2022,L454673,S121385961,,1
-248,34378,species,sanhaço-da-amazônia,Thraupis episcopus,3,Gamboa (town),PA-3,23 Oct 2022,L454673,S121385961,,1
-249,34267,species,crimson-backed tanager,Ramphocelus dimidiatus,4,Gamboa (town),PA-3,23 Oct 2022,L454673,S121385961,,1
-250,28042,species,clay-colored thrush,Turdus grayi,1,Gamboa (town),PA-3,23 Oct 2022,L454673,S121385961,,1
-251,26737,species,corruíra,Troglodytes aedon,1,Gamboa (town),PA-3,23 Oct 2022,L454673,S121385961,,1
-252,9581,species,whooping motmot,Momotus subrufescens,1,Gamboa (town),PA-3,23 Oct 2022,L454673,S121385961,,1
-253,816,species,gray-headed chachalaca,Ortalis cinereiceps,4,Gamboa (town),PA-3,23 Oct 2022,L454673,S121385961,,1
-254,33119,species,scarlet-rumped cacique,Cacicus uropygialis,2,Achiote Rd.--Sendero El Trogón,PA-3,22 Oct 2022,L454697,S121457761,,1
-255,13431,species,checker-throated stipplethroat,Epinecrophylla fulviventris,1,Achiote Rd.--Sendero El Trogón,PA-3,22 Oct 2022,L454697,S121457761,,1
-256,12666,species,papagaio-diadema,Amazona autumnalis,2,Achiote Rd.--Sendero El Trogón,PA-3,22 Oct 2022,L454697,S121457761,,1
-257,10669,species,collared aracari,Pteroglossus torquatus,3,Achiote Rd.--Sendero El Trogón,PA-3,22 Oct 2022,L454697,S121457761,,1
-258,9333,species,gartered trogon,Trogon caligatus,1,Achiote Rd.--Sendero El Trogón,PA-3,22 Oct 2022,L454697,S121457761,,1
-259,33338,species,great-tailed grackle,Quiscalus mexicanus,12,Ft.Sherman--Shelter Bay Marina & Kennedy Loop Place,PA-3,22 Oct 2022,L2440821,S121457374,,1
-260,23678,species,andorinha-grande,Progne chalybea,6,Ft.Sherman--Shelter Bay Marina & Kennedy Loop Place,PA-3,22 Oct 2022,L2440821,S121457374,,1
-261,23655,species,mangrove swallow,Tachycineta albilinea,5,Ft.Sherman--Shelter Bay Marina & Kennedy Loop Place,PA-3,22 Oct 2022,L2440821,S121457374,,1
-262,17156,species,suiriri-valente,Tyrannus tyrannus,8,Ft.Sherman--Shelter Bay Marina & Kennedy Loop Place,PA-3,22 Oct 2022,L2440821,S121457374,,1
-263,17139,species,suiriri,Tyrannus melancholicus,10,Ft.Sherman--Shelter Bay Marina & Kennedy Loop Place,PA-3,22 Oct 2022,L2440821,S121457374,,1
-264,17021,species,great crested flycatcher,Myiarchus crinitus,1,Ft.Sherman--Shelter Bay Marina & Kennedy Loop Place,PA-3,22 Oct 2022,L2440821,S121457374,,1
-265,10718,species,keel-billed toucan,Ramphastos sulfuratus,4,Ft.Sherman--Shelter Bay Marina & Kennedy Loop Place,PA-3,22 Oct 2022,L2440821,S121457374,,1
-266,7624,species,urubu-de-cabeça-vermelha,Cathartes aura,4,Ft.Sherman--Shelter Bay Marina & Kennedy Loop Place,PA-3,22 Oct 2022,L2440821,S121457374,,1
-267,7620,species,urubu-preto,Coragyps atratus,13,Ft.Sherman--Shelter Bay Marina & Kennedy Loop Place,PA-3,22 Oct 2022,L2440821,S121457374,,1
-268,7147,species,fragata,Fregata magnificens,1,Ft.Sherman--Shelter Bay Marina & Kennedy Loop Place,PA-3,22 Oct 2022,L2440821,S121457374,,1
-269,1960,species,pomba-galega,Patagioenas cayennensis,5,Ft.Sherman--Shelter Bay Marina & Kennedy Loop Place,PA-3,22 Oct 2022,L2440821,S121457374,,1
-270,12638,species,maitaca-verde,Pionus maximiliani,,"Araçariguama, SP, 18147-000, Brasil",BR-SP,18 Sep 2022,L21565473,S122601806,,1
-271,16223,species,gibão-de-couro,Hirundinea ferruginea,,"Araçariguama, SP, 18147-000, Brasil",BR-SP,18 Sep 2022,L21565473,S122601807,,1
-272,16851,species,lavadeira-mascarada,Fluvicola nengeta,,"Araçariguama, SP, 18147-000, Brasil",BR-SP,17 Sep 2022,L21565473,S122601808,,1
-273,4307,species,rabo-branco-acanelado,Phaethornis pretrei,,"Araçariguama, SP, 18147-000, Brasil",BR-SP,16 Sep 2022,L21565473,S122601809,,1
-274,34362,species,saíra-viúva,Pipraeidea melanonota,,"Araçariguama, SP, 18147-000, Brasil",BR-SP,06 Sep 2022,L21565473,S122601810,,1
-275,16247,species,risadinha,Camptostoma obsoletum,,"Araçariguama, SP, 18147-000, Brasil",BR-SP,06 Sep 2022,L21565473,S122601811,,1
-276,7195,species,biguatinga,Anhinga anhinga,,"Araçariguama, SP, 18147-000, Brasil",BR-SP,05 Sep 2022,L21565473,S122601812,,1
-278,7416,species,garça-branca-pequena,Egretta thula,,"Araçariguama, SP, 18147-000, Brasil",BR-SP,31 Aug 2022,L21565473,S122601813,,1
-279,33537,species,mariquita,Setophaga pitiayumi,,"Araçariguama, SP, 18147-000, Brasil",BR-SP,31 Aug 2022,L21565473,S122601814,,1
-280,7373,species,socó-dorminhoco,Nycticorax nycticorax,,"Araçariguama, SP, 18147-000, Brasil",BR-SP,21 Aug 2022,L21565473,S122601815,,1
-281,34224,species,tiê-preto,Tachyphonus coronatus,,"Araçariguama, SP, 18147-000, Brasil",BR-SP,02 Aug 2022,L21565473,S122601816,,1
-282,13198,species,chocão-carijó,Hypoedaleus guttatus,,"Araçariguama, SP, 18147-000, Brasil",BR-SP,26 Jul 2022,L21565473,S122601817,,1
-283,7439,species,socozinho,Butorides striata,,"Rua Jardim Botânico próximo ao 296-328 - Lagoa, Rio de Janeiro - RJ, 22470-050, Brasil",BR-RJ,29 May 2022,L21565474,S122601818,,1
-284,11731,species,carrapateiro,Daptrius chimachima,,"Urca, Rio de Janeiro - RJ, Brasil",BR-RJ,28 May 2022,L21565475,S122601882,,1
-285,6009,species,milherango,Limosa limosa,,Ireland,IE-L,11 May 2022,L21565476,S122601819,,1
-286,6496,species,gaivota-prateada,Larus argentatus,,Dublin Airport (DUB),IE-L,10 May 2022,L21565477,S122601820,,1
-287,28756,species,pisco-de-peito-ruivo,Erithacus rubecula,,"Oxfordshire, England, GB",GB-ENG,08 May 2022,L21565479,S122601821,,1
-288,7507,species,garça-moura-europeia,Ardea cinerea,,Hinxton,GB-ENG,06 May 2022,L21565480,S122601822,,1
-289,27356,species,estorninho,Sturnus vulgaris,,"Cambridgeshire, England, GB",GB-ENG,05 May 2022,L21565481,S122601823,,1
-290,31202,species,alvéola-branca,Motacilla alba,,"Hinxton Hall, Wellcome Trust Genome Campus, Hinxton, Saffron Walden CB10 1RQ, Reino Unido",GB-ENG,05 May 2022,L21565482,S122601824,,1
-291,1906,species,pombo-torcaz,Columba palumbus,,"Hinxton Hall, Wellcome Trust Genome Campus, Hinxton, Saffron Walden CB10 1RQ, Reino Unido",GB-ENG,05 May 2022,L21565482,S122601824,,1
-292,27987,species,melro,Turdus merula,,"Whittlesford Parkway, Whittlesford, Cambridge CB22 4PL, Reino Unido",GB-ENG,05 May 2022,L21565483,S122601826,,1
-293,3211,species,alma-de-gato,Piaya cayana,,"Vila Indiana, São Paulo - SP, Brasil",BR-SP,29 Apr 2022,L21565484,S122601827,,1
-294,7487,species,garça-vaqueira,Bubulcus ibis,,"Vitoria, BR-ES, BR",BR-ES,14 Dec 2021,L21565485,S122601828,,1
-296,515,species,pato-real,Anas platyrhynchos,,"Estació de Sagrada Família, Barcelona, Espanha",ES-CT,13 Nov 2021,L21535353,S122413200,,1
-297,2051,species,rola-de-colar,Streptopelia decaocto,,Catedral de Barcelona,ES-CT,06 Nov 2021,L21565488,S122601831,,1
-298,6507,species,gaivota-de-patas-amarelas,Larus michahellis,,Espanha,ES-CT,05 Nov 2021,L21557005,S122549237,,1
-299,6434,species,gaivota-de-capuz-escuro,Chroicocephalus ridibundus,,Espanha,ES-CT,05 Nov 2021,L21557005,S122549238,,1
-300,12585,species,periquito-rico,Brotogeris tirica,,"Vila Indiana, São Paulo - SP, Brasil",BR-SP,29 Oct 2021,L21557006,S122549239,,1
-301,3025,species,anu-preto,Crotophaga ani,,"Departamento de Jornalismo e Editoração - CJE - Butantã, São Paulo - SP, 05466, Brasil",BR-SP,27 Feb 2020,L21557007,S122549240,,1
-302,263,species,ganso-bravo,Anser anser,,Londres,GB-ENG,03 Sep 2019,L21557008,S122549241,,1
-303,33193,species,corrupião,Icterus jamacaii,,Governador Lindenberg,BR-ES,26 Dec 2015,L21557009,S122549242,,1
-304,21189,species,gralha-cinzenta,Corvus cornix,,Schönbrunn,AT-9,01 Oct 2013,L21557010,S122549243,,1
-305,5862,species,quero-quero,Vanellus chilensis,,"Foz do Iguaçu, PR, Brasil",BR-PR,11 Oct 2010,L21535223,S122412262,,1
-306,7549,species,guará,Eudocimus ruber,,"Belém, PA, Brasil",BR-PA,08 Jan 2009,L21535171,S122411894,,1
-307,2415,species,avoante,Zenaida auriculata,,"Fernando de Noronha - PE, Brasil",BR-PE,07 Jan 2008,L21557013,S122549246,,1
-77,254,species,ganso-de-cabeça-listada,Anser indicus,1,Parc départemental du Sausset,FR-IDF,18 May 2023,L6577786,S138211026,X,0
-196,360,species,cisne-preto,Cygnus atratus,1,Parque Eduardo Guinle,BR-RJ,30 Oct 2022,L11532167,S121561443,X,0
-295,1515,species,pavão-real,Pavo cristatus,,"Goiabeiras, Vitória - ES, 29066, Brasil",BR-ES,14 Dec 2021,L21565486,S122601829,X,0
-16,6562,spuh,gaivota-de-asas-brancas (Larus) sp.,Larus sp. (white-winged gull sp.),15,Toronto--HTO Park West,CA-ON,09 Jul 2023,L14162082,S144006192,,0
-20,6563,spuh,Larus sp.,Larus sp.,2,Toronto--Olympic Park,CA-ON,09 Jul 2023,L11087735,S143995932,,0
-28,28289,spuh,Turdus sp.,Turdus sp.,1,PNM das Dunas da Lagoa da Conceição--lagoas,BR-SC,24 Jun 2023,L3689144,S142546559,,0
-43,6120,spuh,tringa sp. (maçarico),Tringa sp.,1,ESEC de Carijós--Pontal da Daniela,BR-SC,24 Jun 2023,L3846905,S142524019,,0
-50,7543,spuh,Ardeidae sp.,Ardeidae sp.,1,Sítio do Engenho,BR-SP,18 Jun 2023,L21434561,S141992772,,0
-51,35053,spuh,Sporophila sp.,Sporophila sp.,3,FLONA Ipanema--Vila de São João,BR-SP,17 Jun 2023,L9794343,S141978611,,0
-52,16436,spuh,Elaenia sp.,Elaenia sp.,1,FLONA Ipanema--Vila de São João,BR-SP,17 Jun 2023,L9794343,S141978611,,0
-93,5487,spuh,fulica sp. (carqueja),Fulica sp.,35,Reserva Ecológica Costanera Sur,AR-C,19 Apr 2023,L472208,S134313424,,0
-127,4311,spuh,Phaethornis sp.,Phaethornis sp.,1,"Araçariguama, SP, 18147-000, Brasil",BR-SP,20 Mar 2023,L21565473,S131357981,,0
-129,2303,spuh,Columbina sp.,Columbina sp.,3,Fazenda Carnaúba - Taperoá,BR-PB,06 Mar 2023,L22934451,S130298921,,0
-143,12966,spuh,psittaciformes sp. (parrot sp.),Psittaciformes sp. (parrot sp.),1,Sítio do Engenho,BR-SP,11 Jan 2023,L21434561,S125944321,,0
-144,2022,spuh,Patagioenas sp.,Patagioenas sp.,2,Sítio do Engenho,BR-SP,05 Jan 2023,L21434561,S126314137,,0
-145,250,spuh,Dendrocygna sp.,Dendrocygna sp.,2,Sítio do Engenho,BR-SP,05 Jan 2023,L21434561,S126314137,,0
-147,881,spuh,penelope sp. (jacu),Penelope sp.,4,Vitória--Jardim Botânico da Vale,BR-ES,28 Dec 2022,L4153207,S124751490,,0
-154,7635,spuh,Cathartes sp.,Cathartes sp.,20,Roça - Governador Lindenberg,BR-ES,25 Dec 2022,L21888521,S124563263,,0
-215,16687,spuh,Empidonax sp.,Empidonax sp.,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,0
-224,3522,spuh,Chordeiles sp.,Chordeiles sp.,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,0
-277,295,spuh,Anser sp.,Anser sp.,,"Araçariguama, SP, 18147-000, Brasil",BR-SP,04 Sep 2022,L21565473,S122601880,X,0
+1,8304,species,Short-tailed Hawk,Buteo brachyurus,,"Vila Indiana, São Paulo - SP, Brazil",BR-SP,18 Jan 2024,L29265190,S161550199,,1
+2,16126,species,Common Tody-Flycatcher,Todirostrum cinereum,2,Mandacaru Suítes - Itamambuca,BR-SP,05 Jan 2024,L28649348,S158149464,,1
+3,13554,species,Rufous-margined Antwren,Herpsilochmus rufimarginatus,2,Mandacaru Suítes - Itamambuca,BR-SP,05 Jan 2024,L28649348,S158149464,,1
+4,34400,species,Golden-chevroned Tanager,Thraupis ornata,,"Eco, Santa Teresa - ES, 29650-000, Brazil",BR-ES,28 Dec 2023,L29265191,S161550200,,1
+5,5103,species,Versicolored Emerald,Chrysuronia versicolor,,"Eco, Santa Teresa - ES, 29650-000, Brazil",BR-ES,28 Dec 2023,L29265191,S161550202,,1
+6,4417,species,Frilled Coquette,Lophornis magnificus,,"Eco, Santa Teresa - ES, 29650-000, Brazil",BR-ES,28 Dec 2023,L29265191,S161550203,,1
+7,33961,species,Yellow-green Grosbeak,Caryothraustes canadensis,,"Eco, Santa Teresa - ES, 29650-000, Brazil",BR-ES,28 Dec 2023,L29265191,S161550204,,1
+8,14749,species,Wing-banded Hornero,Furnarius figulus,,"Manguinhos, Serra, Serra - State of Espírito Santo, Brazil",BR-ES,20 Dec 2023,L29265193,S161550205,,1
+9,4870,species,Glittering-bellied Emerald,Chlorostilbon lucidus,,"Vila Indiana, São Paulo - SP, Brazil",BR-SP,12 Dec 2023,L29265190,S161550206,,1
+10,3553,species,Common Pauraque,Nyctidromus albicollis,1,Sítio do Engenho,BR-SP,05 Sep 2023,L21434561,S149095633,,1
+11,16813,species,Gray Monjita,Nengetus cinereus,,"Eixo Monumental - Lado Oeste - Praça do Cruzeiro, Brasília - DF, 70070-300",BR-DF,31 Aug 2023,L29265194,S161550207,,1
+12,17133,species,Crowned Slaty Flycatcher,Empidonomus aurantioatrocristatus,,"Asa Norte, Brasília - DF, Brasil",BR-DF,30 Aug 2023,L29265195,S161550208,,1
+13,12587,species,Yellow-chevroned Parakeet,Brotogeris chiriri,2,Jardins do ICC (UnB),BR-DF,29 Aug 2023,L26813360,S148364131,,1
+14,7568,species,Buff-necked Ibis,Theristicus caudatus,1,CEM Asa Norte,BR-DF,29 Aug 2023,L26813179,S148363264,,1
+15,12922,species,Red-shouldered Macaw,Diopsittaca nobilis,,"Ipiranga, São Paulo - SP, 04268, Brasil",BR-SP,26 Aug 2023,L29265196,S161550209,,1
+16,12696,species,Turquoise-fronted Parrot,Amazona aestiva,1,São Paulo--Praça Pôr do Sol,BR-SP,25 Aug 2023,L10971805,S148071395,,1
+17,5385,species,Blackish Rail,Pardirallus nigricans,1,Sítio do Engenho,BR-SP,11 Aug 2023,L21434561,S146971207,,1
+18,75,species,Brown Tinamou,Crypturellus obsoletus,1,Sítio do Engenho,BR-SP,11 Aug 2023,L21434561,S146971207,,1
+19,11704,species,Laughing Falcon,Herpetotheres cachinnans,1,Sítio do Engenho,BR-SP,09 Aug 2023,L21434561,S146832995,,1
+20,4709,species,Stripe-breasted Starthroat,Heliomaster squamosus,,"Araçariguama, SP, 18147-000, Brasil",BR-SP,09 Aug 2023,L29265197,S161550210,,1
+21,3611,species,Rufous Nightjar,Antrostomus rufus,1,Sítio do Engenho,BR-SP,25 Jul 2023,L21434561,S145613862,,1
+22,6479,species,Ring-billed Gull,Larus delawarensis,,"Niagara Falls, ON, Canada",CA-ON,12 Jul 2023,L29265198,S161550211,,1
+23,433,species,Wood Duck,Aix sponsa,,"1873 Bloor St W, Toronto, ON M6R 2Z3, Canada",CA-ON,09 Jul 2023,L29265199,S161550212,,1
+24,6657,species,Caspian Tern,Hydroprogne caspia,,"1873 Bloor St W, Toronto, ON M6R 2Z3, Canada",CA-ON,09 Jul 2023,L29265199,S161550213,,1
+25,11665,species,Northern Flicker,Colaptes auratus,,"1873 Bloor St W, Toronto, ON M6R 2Z3, Canada",CA-ON,09 Jul 2023,L29265199,S161550214,,1
+26,32095,species,American Goldfinch,Spinus tristis,1,Toronto--High Park,CA-ON,09 Jul 2023,L11,S144042766,,1
+27,21676,species,Black-capped Chickadee,Poecile atricapillus,2,Toronto--High Park,CA-ON,09 Jul 2023,L11,S144042766,,1
+28,11175,species,Downy Woodpecker,Dryobates pubescens,1,Toronto--High Park,CA-ON,09 Jul 2023,L11,S144042766,,1
+29,10022,species,Belted Kingfisher,Megaceryle alcyon,2,Toronto--High Park,CA-ON,09 Jul 2023,L11,S144042766,,1
+30,33327,species,Common Grackle,Quiscalus quiscula,1,Toronto--Spadina Quay wetlands,CA-ON,09 Jul 2023,L7424560,S144008681,,1
+31,358,species,Mute Swan,Cygnus olor,,"Downtown Toronto, Toronto, ON, Canada",CA-ON,09 Jul 2023,L29265200,S161550215,N,1
+33,324,species,Canada Goose,Branta canadensis,10,Toronto--HTO Park West,CA-ON,09 Jul 2023,L14162082,S144006192,,1
+34,33251,species,Red-winged Blackbird,Agelaius phoeniceus,3,Toronto--Harbour Square Park,CA-ON,09 Jul 2023,L450752,S144000353,,1
+35,28096,species,American Robin,Turdus migratorius,1,Toronto--Roundhouse Park,CA-ON,09 Jul 2023,L8905862,S143996337,,1
+37,28029,species,White-necked Thrush,Turdus albicollis,1,Sítio do Engenho,BR-SP,30 Jun 2023,L21434561,S143165263,,1
+38,15932,species,Gray-hooded Flycatcher,Mionectes rufiventris,,"Araçariguama, SP, 18147-000, Brasil",BR-SP,29 Jun 2023,L29265197,S161550216,,1
+39,14331,species,Olivaceous Woodcreeper,Sittasomus griseicapillus,1,Sítio do Engenho,BR-SP,26 Jun 2023,L21434561,S142860533,,1
+40,7840,species,Black Hawk-Eagle,Spizaetus tyrannus,1,Sítio do Engenho,BR-SP,26 Jun 2023,L21434561,S142772673,,1
+41,9346,species,Surucua Trogon,Trogon surrucura,2,Sítio do Engenho,BR-SP,26 Jun 2023,L21434561,S142770049,,1
+42,7364,species,Yellow-crowned Night Heron,Nyctanassa violacea,7,Florianópolis--Manguezal do Itacorubi,BR-SC,24 Jun 2023,L21263156,S142551244,,1
+43,31369,species,Yellowish Pipit,Anthus chii,2,PNM das Dunas da Lagoa da Conceição--lagoas,BR-SC,24 Jun 2023,L3689144,S142546559,,1
+44,30784,species,Common Waxbill,Estrilda astrild,7,PNM das Dunas da Lagoa da Conceição--lagoas,BR-SC,24 Jun 2023,L3689144,S142546559,N,1
+46,16388,species,Yellow-bellied Elaenia,Elaenia flavogaster,1,PNM das Dunas da Lagoa da Conceição--lagoas,BR-SC,24 Jun 2023,L3689144,S142546559,,1
+47,11694,species,Campo Flicker,Colaptes campestris,1,PNM das Dunas da Lagoa da Conceição--lagoas,BR-SC,24 Jun 2023,L3689144,S142546559,,1
+48,7944,species,Long-winged Harrier,Circus buffoni,1,PNM das Dunas da Lagoa da Conceição--lagoas,BR-SC,24 Jun 2023,L3689144,S142546559,,1
+49,569,species,Yellow-billed Pintail,Anas georgica,2,PNM das Dunas da Lagoa da Conceição--lagoas,BR-SC,24 Jun 2023,L3689144,S142546559,,1
+50,551,species,White-cheeked Pintail,Anas bahamensis,2,PNM das Dunas da Lagoa da Conceição--lagoas,BR-SC,24 Jun 2023,L3689144,S142546559,,1
+51,33476,species,Southern Yellowthroat,Geothlypis velata,1,PE do Rio Vermelho--sede,BR-SC,24 Jun 2023,L21155795,S142532439,,1
+52,20862,species,Azure Jay,Cyanocorax caeruleus,4,PE do Rio Vermelho--sede,BR-SC,24 Jun 2023,L21155795,S142532439,,1
+53,10852,species,Ochre-collared Piculet,Picumnus temminckii,1,PE do Rio Vermelho--sede,BR-SC,24 Jun 2023,L21155795,S142532439,,1
+54,5136,species,Glittering-throated Emerald,Chionomesa fimbriata,1,PE do Rio Vermelho--sede,BR-SC,24 Jun 2023,L21155795,S142532439,,1
+55,3822,species,White-collared Swift,Streptoprocne zonaris,1,PE do Rio Vermelho--sede,BR-SC,24 Jun 2023,L21155795,S142532439,,1
+56,7172,species,Brown Booby,Sula leucogaster,3,ESEC de Carijós--Pontal da Daniela,BR-SC,24 Jun 2023,L3846905,S142524019,,1
+57,6713,species,Sandwich Tern,Thalasseus sandvicensis,7,ESEC de Carijós--Pontal da Daniela,BR-SC,24 Jun 2023,L3846905,S142524019,,1
+58,6643,species,Yellow-billed Tern,Sternula superciliaris,3,ESEC de Carijós--Pontal da Daniela,BR-SC,24 Jun 2023,L3846905,S142524019,,1
+59,6567,species,Black Skimmer,Rynchops niger,28,ESEC de Carijós--Pontal da Daniela,BR-SC,24 Jun 2023,L3846905,S142524019,,1
+61,5770,species,American Oystercatcher,Haematopus palliatus,3,ESEC de Carijós--Pontal da Daniela,BR-SC,24 Jun 2023,L3846905,S142524019,,1
+62,5741,species,Black-necked Stilt,Himantopus mexicanus,5,ESEC de Carijós--Pontal da Daniela,BR-SC,24 Jun 2023,L3846905,S142524019,,1
+63,5414,species,Gray-cowled Wood-Rail,Aramides cajaneus,2,ESEC de Carijós--Pontal da Daniela,BR-SC,24 Jun 2023,L3846905,S142524019,,1
+64,835,species,Scaled Chachalaca,Ortalis squamata,3,ESEC de Carijós--Pontal da Daniela,BR-SC,24 Jun 2023,L3846905,S142518270,,1
+65,6490,species,Kelp Gull,Larus dominicanus,2,Florianópolis--Jurerê,BR-SC,23 Jun 2023,L11683201,S142472594,,1
+66,10028,species,Amazon Kingfisher,Chloroceryle amazona,1,Universidade de São Paulo--Raia Olímpica,BR-SP,21 Jun 2023,L8365520,S142292246,,1
+70,13212,species,Great Antshrike,Taraba major,1,FLONA Ipanema--Vila de São João,BR-SP,17 Jun 2023,L9794343,S141978611,,1
+71,31504,species,Violaceous Euphonia,Euphonia violacea,1,Sítio do Engenho,BR-SP,05 Jun 2023,L21434561,S140621051,,1
+72,16170,species,Yellow-olive Flatbill,Tolmomyias sulphurescens,1,Sítio do Engenho,BR-SP,03 Jun 2023,L21434561,S140329540,,1
+73,13687,species,White-shouldered Fire-eye,Pyriglena leucoptera,2,Sítio do Engenho,BR-SP,27 May 2023,L21434561,S139396105,,1
+74,15302,species,Rufous-capped Spinetail,Synallaxis ruficapilla,1,Sítio do Engenho,BR-SP,26 May 2023,L21434561,S139350860,,1
+75,11708,species,Collared Forest-Falcon,Micrastur semitorquatus,1,Sítio do Engenho,BR-SP,26 May 2023,L21434561,S139350860,,1
+76,20948,species,Eurasian Jay,Garrulus glandarius,2,Athens National Garden (Εθνικός Κήπος),GR-I,22 May 2023,L2694540,S138805724,,1
+77,31018,species,House Sparrow,Passer domesticus,20,Ancient Agora,GR-I,21 May 2023,L3768415,S138624282,,1
+78,9394,species,Eurasian Hoopoe,Upupa epops,1,Ancient Agora,GR-I,21 May 2023,L3768415,S138624282,,1
+79,4078,species,Pallid Swift,Apus pallidus,2,Ancient Agora,GR-I,21 May 2023,L3768415,S138624282,,1
+80,5000,species,Swallow-tailed Hummingbird,Eupetomena macroura,,"Araçariguama, SP, 18147-000, Brasil",BR-SP,20 May 2023,L24972350,S140624680,,1
+81,30998,species,Dunnock,Prunella modularis,1,Parc départemental du Sausset,FR-IDF,18 May 2023,L6577786,S138211026,,1
+82,24786,species,Long-tailed Tit,Aegithalos caudatus,6,Parc départemental du Sausset,FR-IDF,18 May 2023,L6577786,S138211026,,1
+83,24432,species,Common Chiffchaff,Phylloscopus collybita,1,Parc départemental du Sausset,FR-IDF,18 May 2023,L6577786,S138211026,,1
+84,23636,species,Bank Swallow,Riparia riparia,6,Parc départemental du Sausset,FR-IDF,18 May 2023,L6577786,S138211026,,1
+85,23263,species,Common Reed Warbler,Acrocephalus scirpaceus,3,Parc départemental du Sausset,FR-IDF,18 May 2023,L6577786,S138211026,,1
+86,21186,species,Carrion Crow,Corvus corone,1,Parc départemental du Sausset,FR-IDF,18 May 2023,L6577786,S138211026,,1
+87,21076,species,Eurasian Magpie,Pica pica,8,Parc départemental du Sausset,FR-IDF,18 May 2023,L6577786,S138211026,,1
+88,12111,species,Rose-ringed Parakeet,Psittacula krameri,4,Parc départemental du Sausset,FR-IDF,18 May 2023,L6577786,S138211026,N,1
+89,7224,species,Great Cormorant,Phalacrocorax carbo,1,Parc départemental du Sausset,FR-IDF,18 May 2023,L6577786,S138211026,,1
+90,6686,species,Common Tern,Sterna hirundo,2,Parc départemental du Sausset,FR-IDF,18 May 2023,L6577786,S138211026,,1
+91,5461,species,Eurasian Coot,Fulica atra,2,Parc départemental du Sausset,FR-IDF,18 May 2023,L6577786,S138211026,,1
+92,1848,species,Great Crested Grebe,Podiceps cristatus,4,Parc départemental du Sausset,FR-IDF,18 May 2023,L6577786,S138211026,,1
+93,1804,species,Little Grebe,Tachybaptus ruficollis,1,Parc départemental du Sausset,FR-IDF,18 May 2023,L6577786,S138211026,,1
+95,15750,species,White-winged Becard,Pachyramphus polychopterus,1,Sítio do Engenho,BR-SP,01 May 2023,L21434561,S135661822,,1
+96,14287,species,Rufous-breasted Leaftosser,Sclerurus scansor,1,Sítio do Engenho,BR-SP,01 May 2023,L21434561,S135661822,,1
+97,8235,species,Roadside Hawk,Rupornis magnirostris,1,Sítio do Engenho,BR-SP,01 May 2023,L21434561,S135661822,,1
+98,3032,species,Pavonine Cuckoo,Dromococcyx pavoninus,1,Sítio do Engenho,BR-SP,01 May 2023,L21434561,S135661822,,1
+99,130,species,Tataupa Tinamou,Crypturellus tataupa,1,Sítio do Engenho,BR-SP,01 May 2023,L21434561,S135661822,,1
+100,13204,species,Tufted Antshrike,Mackenziaena severa,1,Sítio do Engenho,BR-SP,30 Apr 2023,L21434561,S135518673,,1
+101,10922,species,White Woodpecker,Melanerpes candidus,1,Sítio do Engenho,BR-SP,30 Apr 2023,L21434561,S135518673,,1
+102,24843,species,Eurasian Blackcap,Sylvia atricapilla,3,Giardini Pubblici di Venezia,IT-34,27 Apr 2023,L1626157,S135252104,,1
+103,7575,species,African Sacred Ibis,Threskiornis aethiopicus,1,Venezia (area generale),IT-34,27 Apr 2023,L1272698,S135252160,N,1
+104,10205,species,Crescent-chested Puffbird,Malacoptila striata,,"Araçariguama, SP, 18147-000, Brasil",BR-SP,23 Apr 2023,L24972350,S140624681,,1
+105,7421,species,Little Egret,Egretta garzetta,,"San Polo, 30100 Venice, Metropolitan City of Venice, Ιταλία",IT-34,20 Apr 2023,L23959416,S135669912,,1
+106,32050,species,European Serin,Serinus serinus,,"San Polo, 30100 Venice, Metropolitan City of Venice, Ιταλία",IT-34,20 Apr 2023,L23959416,S135669913,,1
+107,11757,species,Eurasian Kestrel,Falco tinnunculus,,"Padua City Centre, Padua, Province of Padua, Ιταλία",IT-34,19 Apr 2023,L23959418,S135669916,,1
+108,9629,species,Common Kingfisher,Alcedo atthis,,"Padua City Centre, Padua, Province of Padua, Ιταλία",IT-34,19 Apr 2023,L23959418,S135669917,,1
+109,21786,species,Great Tit,Parus major,,"Padua City Centre, Padua, Province of Padua, Ιταλία",IT-34,19 Apr 2023,L23959418,S135669919,,1
+111,33183,species,Variable Oriole,Icterus pyrrhopterus,,"Puerto Madero, Città Autonoma di Buenos Aires, Argentina",AR-C,16 Apr 2023,L23959417,S135669926,,1
+112,5436,species,Eurasian Moorhen,Gallinula chloropus,,"Padua City Centre, Padua, Province of Padua, Italia",IT-34,16 Apr 2023,L23959420,S135669931,,1
+113,35278,species,Golden-billed Saltator,Saltator aurantiirostris,3,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
+114,33393,species,Grayish Baywing,Agelaioides badius,5,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
+115,26647,species,Masked Gnatcatcher,Polioptila dumicola,5,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
+116,16445,species,White-crested Tyrannulet,Serpophaga subcristata,2,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
+117,16444,species,Sooty Tyrannulet,Serpophaga nigricans,1,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
+118,15257,species,Yellow-chinned Spinetail,Certhiaxis cinnamomeus,3,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
+119,14644,species,Narrow-billed Woodcreeper,Lepidocolaptes angustirostris,2,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
+120,12878,species,Nanday Parakeet,Aratinga nenday,15,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,N,1
+121,12576,species,Monk Parakeet,Myiopsitta monachus,6,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
+122,8250,species,Harris's Hawk,Parabuteo unicinctus,4,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
+123,7552,species,White-faced Ibis,Plegadis chihi,7,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
+124,5486,species,White-winged Coot,Fulica leucoptera,2,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
+125,5460,species,Red-gartered Coot,Fulica armillata,3,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
+126,5457,species,Red-fronted Coot,Fulica rufifrons,40,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
+127,5424,species,Spot-flanked Gallinule,Porphyriops melanops,2,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
+128,1831,species,Pied-billed Grebe,Podilymbus podiceps,1,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
+129,1798,species,White-tufted Grebe,Rollandia rolland,12,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
+130,744,species,Lake Duck,Oxyura vittata,8,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
+131,626,species,Rosy-billed Pochard,Netta peposaca,16,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
+132,591,species,Yellow-billed Teal,Anas flavirostris,3,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
+133,456,species,Silver Teal,Spatula versicolor,10,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
+134,432,species,Ringed Teal,Callonetta leucophrys,3,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
+135,376,species,Coscoroba Swan,Coscoroba coscoroba,3,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
+136,362,species,Black-necked Swan,Cygnus melancoryphus,6,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
+137,224,species,Southern Screamer,Chauna torquata,6,Reserva Ecológica Costanera Sur,AR-C,16 Apr 2023,L472208,S133970118,,1
+138,11735,species,Chimango Caracara,Daptrius chimango,,"Puerto Madero, Città Autonoma di Buenos Aires, Argentina",AR-C,12 Apr 2023,L23959417,S135669934,,1
+139,15412,species,Swallow-tailed Manakin,Chiroxiphia caudata,2,Sítio do Engenho,BR-SP,03 Apr 2023,L21434561,S132573773,,1
+140,2298,species,Picui Ground Dove,Columbina picui,2,Ponta Negra--Praia de Ponta Negra,BR-RN,30 Mar 2023,L22809384,S132758310,,1
+141,6091,species,Spotted Sandpiper,Actitis macularius,1,Ponta Negra--Praia de Ponta Negra,BR-RN,29 Mar 2023,L22809384,S132110462,,1
+142,14999,species,White-eyed Foliage-gleaner,Automolus leucophthalmus,1,"Araçariguama, SP, 18147-000, Brasil",BR-SP,20 Mar 2023,L21565473,S131357981,,1
+143,13317,species,Variable Antshrike,Thamnophilus caerulescens,1,"Araçariguama, SP, 18147-000, Brasil",BR-SP,20 Mar 2023,L21565473,S131357981,,1
+145,16850,species,Black-backed Water-Tyrant,Fluvicola albiventer,,"Patos, PB, Brasil",BR-PB,08 Mar 2023,L23959425,S135669941,,1
+147,5805,species,Semipalmated Plover,Charadrius semipalmatus,,"Barreiros, PE, Brasil",BR-PE,04 Mar 2023,L23959427,S135669943,,1
+148,5782,species,Black-bellied Plover,Pluvialis squatarola,,"Barreiros, PE, Brasil",BR-PE,04 Mar 2023,L23959427,S135669944,,1
+149,5132,species,Plain-bellied Emerald,Chrysuronia leucogaster,,"Tamandaré - PE, Brasil",BR-PE,02 Mar 2023,L23959428,S135669945,,1
+150,23651,species,White-winged Swallow,Tachycineta albiventer,2,"1558-1758 Avenida José Bezerra Sobrinho, Pernambuco, BR (-8,734, -35,089)",BR-PE,01 Mar 2023,L25208344,S141626984,,1
+151,33704,species,Golden-crowned Warbler,Basileuterus culicivorus,1,"Araçariguama, SP, 18147-000, Brasil",BR-SP,24 Feb 2023,L21565473,S129488173,,1
+152,14514,species,Lesser Woodcreeper,Xiphorhynchus fuscus,1,"Araçariguama, SP, 18147-000, Brasil",BR-SP,24 Feb 2023,L21565473,S129488173,,1
+153,34083,species,Red-crested Cardinal,Paroaria coronata,2,Universidade de São Paulo--Praça do Relógio,BR-SP,17 Feb 2023,L8121084,S132758336,,1
+154,15315,species,Spix's Spinetail,Synallaxis spixi,,"Araçariguama, SP, 18147-000, Brasil",BR-SP,30 Jan 2023,L23959421,S135669950,,1
+155,8926,species,Burrowing Owl,Athene cunicularia,2,"972 Rua Joao De Candinha, São Paulo, BR (-23,577, -47,14)",BR-SP,28 Jan 2023,L22373035,S127087392,,1
+156,4308,species,Scale-throated Hermit,Phaethornis eurynome,,"Araçariguama, SP, 18147-000, Brasil",BR-SP,19 Jan 2023,L23959421,S135669951,,1
+157,31482,species,Purple-throated Euphonia,Euphonia chlorotica,1,Sítio do Engenho,BR-SP,18 Jan 2023,L21434561,S126423887,,1
+158,34452,species,Burnished-buff Tanager,Stilpnia cayana,1,Sítio do Engenho,BR-SP,12 Jan 2023,L21434561,S125980854,,1
+159,7562,species,Bare-faced Ibis,Phimosus infuscatus,2,Sítio do Engenho,BR-SP,12 Jan 2023,L21434561,S125980854,,1
+163,855,species,Rusty-margined Guan,Penelope superciliaris,,"Parque Industrial, Vitória - ES, Brasil",BR-ES,28 Dec 2022,L23959432,S135669955,,1
+165,27639,species,Tropical Mockingbird,Mimus gilvus,4,Parque Pedra da Cebola,BR-ES,27 Dec 2022,L6340057,S124688398,,1
+166,17066,species,Boat-billed Flycatcher,Megarynchus pitangua,1,Roça - Governador Lindenberg,BR-ES,26 Dec 2022,L21888521,S124641037,,1
+167,10677,species,Black-necked Aracari,Pteroglossus aracari,1,Roça - Governador Lindenberg,BR-ES,26 Dec 2022,L21888521,S124641037,,1
+168,834,species,East Brazilian Chachalaca,Ortalis araucuan,1,Roça - Governador Lindenberg,BR-ES,26 Dec 2022,L21888521,S124612131,,1
+169,3023,species,Guira Cuckoo,Guira guira,1,Roça - Governador Lindenberg,BR-ES,25 Dec 2022,L21888521,S124569669,,1
+170,13273,species,Chestnut-backed Antshrike,Thamnophilus palliatus,1,Roça - Governador Lindenberg,BR-ES,25 Dec 2022,L21888521,S124563263,,1
+172,2295,species,Scaled Dove,Columbina squammata,1,Roça - Governador Lindenberg,BR-ES,25 Dec 2022,L21888521,S124563263,,1
+173,34084,species,Red-cowled Cardinal,Paroaria dominicana,1,"ES-245, Espírito Santo, BR (-19,245, -40,482)",BR-ES,23 Dec 2022,L21888875,S124486600,,1
+174,33134,species,Red-rumped Cacique,Cacicus haemorrhous,2,"ES-245, Espírito Santo, BR (-19,245, -40,482)",BR-ES,23 Dec 2022,L21888875,S124486600,,1
+175,3028,species,Striped Cuckoo,Tapera naevia,1,"ES-245, Espírito Santo, BR (-19,245, -40,482)",BR-ES,23 Dec 2022,L21888875,S124486600,,1
+176,34958,species,Lined Seedeater,Sporophila lineola,2,"ES-245, Espírito Santo, BR (-19,245, -40,482)",BR-ES,23 Dec 2022,L21888875,S124481163,,1
+177,12887,species,Blue-winged Macaw,Primolius maracana,1,"ES-245, Espírito Santo, BR (-19,245, -40,482)",BR-ES,23 Dec 2022,L21888875,S124481163,,1
+178,7631,species,Lesser Yellow-headed Vulture,Cathartes burrovianus,1,Roça - Governador Lindenberg,BR-ES,23 Dec 2022,L21888521,S124468745,,1
+179,231,species,White-faced Whistling-Duck,Dendrocygna viduata,5,Sítio do Engenho,BR-SP,03 Dec 2022,L21434561,S123778494,,1
+180,11595,species,Blond-crested Woodpecker,Celeus flavescens,1,São Paulo--Praça Pôr do Sol,BR-SP,12 Nov 2022,L10971805,S122277458,,1
+181,33291,species,Shiny Cowbird,Molothrus bonariensis,5,Universidade de São Paulo--Praça do Relógio,BR-SP,11 Nov 2022,L8121084,S122239640,,1
+182,17048,species,Cattle Tyrant,Machetornis rixosa,1,Universidade de São Paulo--Praça do Relógio,BR-SP,11 Nov 2022,L8121084,S122239640,,1
+183,10732,species,Red-breasted Toucan,Ramphastos dicolorus,3,Universidade de São Paulo--Praça do Relógio,BR-SP,11 Nov 2022,L8121084,S122239640,,1
+184,3888,species,Sick's Swift,Chaetura meridionalis,1,Sítio do Engenho,BR-SP,10 Nov 2022,L21434561,S122165037,,1
+185,2340,species,White-tipped Dove,Leptotila verreauxi,,Sítio do Engenho,BR-SP,10 Nov 2022,L21434561,S122165037,,1
+186,32115,species,Hooded Siskin,Spinus magellanicus,1,Sítio do Engenho,BR-SP,09 Nov 2022,L21434561,S122139958,,1
+187,28123,species,Creamy-bellied Thrush,Turdus amaurochalinus,,Sítio do Engenho,BR-SP,09 Nov 2022,L21434561,S122139958,,1
+188,873,species,Dusky-legged Guan,Penelope obscura,2,Sítio do Engenho,BR-SP,09 Nov 2022,L21434561,S122115800,,1
+189,27612,species,Chalk-browed Mockingbird,Mimus saturninus,1,Sítio do Engenho,BR-SP,06 Nov 2022,L21434561,S121959603,,1
+190,18704,species,Rufous-browed Peppershrike,Cyclarhis gujanensis,,Sítio do Engenho,BR-SP,06 Nov 2022,L21434561,S121959603,,1
+191,11657,species,Green-barred Woodpecker,Colaptes melanochloros,1,Sítio do Engenho,BR-SP,05 Nov 2022,L21434561,S122018582,,1
+192,7927,species,Plumbeous Kite,Ictinia plumbea,1,Sítio do Engenho,BR-SP,05 Nov 2022,L21434561,S121891899,,1
+193,10705,species,Toco Toucan,Ramphastos toco,1,Pesqueiro Megalodon,BR-SP,05 Nov 2022,L21448117,S121886433,,1
+194,34918,species,Saffron Finch,Sicalis flaveola,1,Sítio do Engenho,BR-SP,05 Nov 2022,L21434561,S121873909,,1
+195,5442,species,Common Gallinule,Gallinula galeata,1,Sítio do Engenho,BR-SP,05 Nov 2022,L21434561,S121873909,,1
+196,17116,species,Streaked Flycatcher,Myiodynastes maculatus,2,Sítio do Engenho,BR-SP,04 Nov 2022,L21434561,S121848085,,1
+197,17176,species,Fork-tailed Flycatcher,Tyrannus savana,2,Sítio do Engenho,BR-SP,04 Nov 2022,L21434561,S121829072,,1
+198,14763,species,Rufous Hornero,Furnarius rufus,1,Sítio do Engenho,BR-SP,04 Nov 2022,L21434561,S121829072,,1
+199,11727,species,Crested Caracara,Caracara plancus,1,Sítio do Engenho,BR-SP,04 Nov 2022,L21434561,S121829072,,1
+200,439,species,Brazilian Teal,Amazonetta brasiliensis,2,Sítio do Engenho,BR-SP,04 Nov 2022,L21434561,S121829072,,1
+201,18914,species,Chivi Vireo,Vireo chivi,,Sítio do Engenho,BR-SP,04 Nov 2022,L21434561,S121824051,,1
+202,4942,species,Violet-capped Woodnymph,Thalurania glaucopis,1,Sítio do Engenho,BR-SP,04 Nov 2022,L21434561,S121824051,,1
+203,35031,species,Double-collared Seedeater,Sporophila caerulescens,1,Sítio do Engenho,BR-SP,03 Nov 2022,L21434561,S121809837,,1
+204,32629,species,Rufous-collared Sparrow,Zonotrichia capensis,1,Sítio do Engenho,BR-SP,03 Nov 2022,L21434561,S121809837,,1
+205,23713,species,Blue-and-white Swallow,Pygochelidon cyanoleuca,,Sítio do Engenho,BR-SP,03 Nov 2022,L21434561,S121809837,,1
+206,12955,species,White-eyed Parakeet,Psittacara leucophthalmus,5,Sítio do Engenho,BR-SP,03 Nov 2022,L21434561,S121809837,,1
+207,7561,species,Green Ibis,Mesembrinibis cayennensis,1,Sítio do Engenho,BR-SP,03 Nov 2022,L21434561,S121809837,,1
+208,7398,species,Whistling Heron,Syrigma sibilatrix,1,Sítio do Engenho,BR-SP,03 Nov 2022,L21434561,S121809837,,1
+209,5419,species,Slaty-breasted Wood-Rail,Aramides saracura,1,Sítio do Engenho,BR-SP,03 Nov 2022,L21434561,S121809837,,1
+210,1969,species,Picazuro Pigeon,Patagioenas picazuro,2,Sítio do Engenho,BR-SP,03 Nov 2022,L21434561,S121809837,,1
+211,34394,species,Sayaca Tanager,Thraupis sayaca,3,Parque Eduardo Guinle,BR-RJ,30 Oct 2022,L11532167,S121561443,,1
+212,12768,species,Maroon-bellied Parakeet,Pyrrhura frontalis,1,Parque Eduardo Guinle,BR-RJ,30 Oct 2022,L11532167,S121561443,,1
+214,27995,species,Pale-breasted Thrush,Turdus leucomelas,,"74 Rua Soares Cabral, Rio de Janeiro, BR (-22,937, -43,186)",BR-RJ,29 Oct 2022,L21387228,S121521894,,1
+215,35086,species,Bananaquit,Coereba flaveola,,Parque Eduardo Guinle,BR-RJ,29 Oct 2022,L11532167,S121522131,,1
+216,28039,species,Rufous-bellied Thrush,Turdus rufiventris,1,Parque Eduardo Guinle,BR-RJ,29 Oct 2022,L11532167,S121522131,,1
+217,7260,species,Neotropic Cormorant,Nannopterum brasilianum,1,Parque Eduardo Guinle,BR-RJ,29 Oct 2022,L11532167,S121522131,,1
+218,2286,species,Ruddy Ground Dove,Columbina talpacoti,1,Parque Eduardo Guinle,BR-RJ,29 Oct 2022,L11532167,S121522131,,1
+219,1874,species,Rock Pigeon,Columba livia,17,Parque Eduardo Guinle,BR-RJ,29 Oct 2022,L11532167,S121522131,N,1
+220,423,species,Muscovy Duck,Cairina moschata,,Parque Eduardo Guinle,BR-RJ,29 Oct 2022,L11532167,S121522131,,1
+221,34499,species,Plain-colored Tanager,Tangara inornata,2,Gamboa (town),PA-3,26 Oct 2022,L454673,S121662529,,1
+222,33557,species,Yellow Warbler,Setophaga petechia,1,Gamboa (town),PA-3,26 Oct 2022,L454673,S121662529,,1
+223,35001,species,Variable Seedeater,Sporophila corvina,2,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,1
+224,34951,species,Blue-black Grassquit,Volatinia jacarina,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,1
+225,34402,species,Palm Tanager,Thraupis palmarum,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,1
+226,34080,species,Dickcissel,Spiza americana,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,1
+227,33426,species,Northern Waterthrush,Parkesia noveboracensis,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,1
+228,23772,species,Barn Swallow,Hirundo rustica,15,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,1
+229,23701,species,Southern Rough-winged Swallow,Stelgidopteryx ruficollis,10,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,1
+230,17079,species,Social Flycatcher,Myiozetetes similis,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,1
+231,17055,species,Great Kiskadee,Pitangus sulphuratus,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,1
+233,13237,species,Barred Antshrike,Thamnophilus doliatus,2,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,1
+234,11519,species,Lineated Woodpecker,Dryocopus lineatus,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,1
+235,7514,species,Great Blue Heron,Ardea herodias,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,1
+236,7469,species,Green Heron,Butorides virescens,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,1
+237,7401,species,Little Blue Heron,Egretta caerulea,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,1
+238,6188,species,Pectoral Sandpiper,Calidris melanotos,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,1
+239,5613,species,White-throated Crake,Laterallus albigularis,4,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,1
+240,5489,species,Purple Gallinule,Porphyrio martinica,2,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,1
+242,42,species,Great Tinamou,Tinamus major,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,1
+243,27179,species,Song Wren,Cyphorhinus phaeocephalus,7,Pipeline Road,PA-3,25 Oct 2022,L8603093,S121386102,,1
+244,16615,species,Eastern Wood-Pewee,Contopus virens,7,Pipeline Road,PA-3,25 Oct 2022,L8603093,S121386102,,1
+245,15884,species,Golden-crowned Spadebill,Platyrinchus coronatus,1,Pipeline Road,PA-3,25 Oct 2022,L8603093,S121386102,,1
+246,14539,species,Cocoa Woodcreeper,Xiphorhynchus susurrans,2,Pipeline Road,PA-3,25 Oct 2022,L8603093,S121386102,,1
+247,11553,species,Cinnamon Woodpecker,Celeus loricatus,4,Pipeline Road,PA-3,25 Oct 2022,L8603093,S121386102,,1
+248,10170,species,Black-breasted Puffbird,Notharchus pectoralis,3,Pipeline Road,PA-3,25 Oct 2022,L8603093,S121386102,,1
+249,8293,species,Broad-winged Hawk,Buteo platypterus,3,Pipeline Road,PA-3,25 Oct 2022,L8603093,S121386102,,1
+250,7922,species,Double-toothed Kite,Harpagus bidentatus,2,Pipeline Road,PA-3,25 Oct 2022,L8603093,S121386102,,1
+251,6743,species,Sunbittern,Eurypyga helias,1,Pipeline Road,PA-3,25 Oct 2022,L8603093,S121386102,,1
+252,3762,species,Great Potoo,Nyctibius grandis,1,Pipeline Road,PA-3,25 Oct 2022,L8603093,S121386102,,1
+253,10017,species,Ringed Kingfisher,Megaceryle torquata,1,Lago Gatún,PA-3,24 Oct 2022,L5377870,S121386092,,1
+254,9601,species,Rufous Motmot,Baryphthengus martii,1,Lago Gatún,PA-3,24 Oct 2022,L5377870,S121386092,,1
+255,9311,species,Slaty-tailed Trogon,Trogon massena,2,Lago Gatún,PA-3,24 Oct 2022,L5377870,S121386092,,1
+256,7917,species,Snail Kite,Rostrhamus sociabilis,5,Lago Gatún,PA-3,24 Oct 2022,L5377870,S121386092,,1
+257,7640,species,Osprey,Pandion haliaetus,1,Lago Gatún,PA-3,24 Oct 2022,L5377870,S121386092,,1
+258,7523,species,Cocoi Heron,Ardea cocoi,1,Lago Gatún,PA-3,24 Oct 2022,L5377870,S121386092,,1
+259,7491,species,Great Egret,Ardea alba,3,Lago Gatún,PA-3,24 Oct 2022,L5377870,S121386092,,1
+260,5956,species,Wattled Jacana,Jacana jacana,7,Lago Gatún,PA-3,24 Oct 2022,L5377870,S121386092,,1
+261,5642,species,Limpkin,Aramus guarauna,2,Lago Gatún,PA-3,24 Oct 2022,L5377870,S121386092,,1
+262,3024,species,Greater Ani,Crotophaga major,3,Lago Gatún,PA-3,24 Oct 2022,L5377870,S121386092,,1
+263,7312,species,Rufescent Tiger-Heron,Tigrisoma lineatum,2,Ammo Dump Ponds,PA-3,23 Oct 2022,L1740339,S121386086,,1
+264,34598,species,Blue Dacnis,Dacnis cayana,1,Gamboa (town),PA-3,23 Oct 2022,L454673,S121385961,,1
+265,34378,species,Blue-gray Tanager,Thraupis episcopus,3,Gamboa (town),PA-3,23 Oct 2022,L454673,S121385961,,1
+266,34267,species,Crimson-backed Tanager,Ramphocelus dimidiatus,4,Gamboa (town),PA-3,23 Oct 2022,L454673,S121385961,,1
+267,28042,species,Clay-colored Thrush,Turdus grayi,1,Gamboa (town),PA-3,23 Oct 2022,L454673,S121385961,,1
+268,26737,species,House Wren,Troglodytes aedon,1,Gamboa (town),PA-3,23 Oct 2022,L454673,S121385961,,1
+269,9581,species,Whooping Motmot,Momotus subrufescens,1,Gamboa (town),PA-3,23 Oct 2022,L454673,S121385961,,1
+270,816,species,Gray-headed Chachalaca,Ortalis cinereiceps,4,Gamboa (town),PA-3,23 Oct 2022,L454673,S121385961,,1
+271,33119,species,Scarlet-rumped Cacique,Cacicus uropygialis,2,Achiote Rd.--Sendero El Trogón,PA-3,22 Oct 2022,L454697,S121457761,,1
+272,13431,species,Checker-throated Stipplethroat,Epinecrophylla fulviventris,1,Achiote Rd.--Sendero El Trogón,PA-3,22 Oct 2022,L454697,S121457761,,1
+273,12666,species,Red-lored Parrot,Amazona autumnalis,2,Achiote Rd.--Sendero El Trogón,PA-3,22 Oct 2022,L454697,S121457761,,1
+274,10669,species,Collared Aracari,Pteroglossus torquatus,3,Achiote Rd.--Sendero El Trogón,PA-3,22 Oct 2022,L454697,S121457761,,1
+275,9333,species,Gartered Trogon,Trogon caligatus,1,Achiote Rd.--Sendero El Trogón,PA-3,22 Oct 2022,L454697,S121457761,,1
+276,33338,species,Great-tailed Grackle,Quiscalus mexicanus,12,Ft.Sherman--Shelter Bay Marina & Kennedy Loop Place,PA-3,22 Oct 2022,L2440821,S121457374,,1
+277,23678,species,Gray-breasted Martin,Progne chalybea,6,Ft.Sherman--Shelter Bay Marina & Kennedy Loop Place,PA-3,22 Oct 2022,L2440821,S121457374,,1
+278,23655,species,Mangrove Swallow,Tachycineta albilinea,5,Ft.Sherman--Shelter Bay Marina & Kennedy Loop Place,PA-3,22 Oct 2022,L2440821,S121457374,,1
+279,17156,species,Eastern Kingbird,Tyrannus tyrannus,8,Ft.Sherman--Shelter Bay Marina & Kennedy Loop Place,PA-3,22 Oct 2022,L2440821,S121457374,,1
+280,17139,species,Tropical Kingbird,Tyrannus melancholicus,10,Ft.Sherman--Shelter Bay Marina & Kennedy Loop Place,PA-3,22 Oct 2022,L2440821,S121457374,,1
+281,17021,species,Great Crested Flycatcher,Myiarchus crinitus,1,Ft.Sherman--Shelter Bay Marina & Kennedy Loop Place,PA-3,22 Oct 2022,L2440821,S121457374,,1
+282,10718,species,Keel-billed Toucan,Ramphastos sulfuratus,4,Ft.Sherman--Shelter Bay Marina & Kennedy Loop Place,PA-3,22 Oct 2022,L2440821,S121457374,,1
+283,7624,species,Turkey Vulture,Cathartes aura,4,Ft.Sherman--Shelter Bay Marina & Kennedy Loop Place,PA-3,22 Oct 2022,L2440821,S121457374,,1
+284,7620,species,Black Vulture,Coragyps atratus,13,Ft.Sherman--Shelter Bay Marina & Kennedy Loop Place,PA-3,22 Oct 2022,L2440821,S121457374,,1
+285,7147,species,Magnificent Frigatebird,Fregata magnificens,1,Ft.Sherman--Shelter Bay Marina & Kennedy Loop Place,PA-3,22 Oct 2022,L2440821,S121457374,,1
+286,1960,species,Pale-vented Pigeon,Patagioenas cayennensis,5,Ft.Sherman--Shelter Bay Marina & Kennedy Loop Place,PA-3,22 Oct 2022,L2440821,S121457374,,1
+287,12638,species,Scaly-headed Parrot,Pionus maximiliani,,"Araçariguama, SP, 18147-000, Brasil",BR-SP,18 Sep 2022,L21565473,S122601806,,1
+288,16223,species,Cliff Flycatcher,Hirundinea ferruginea,,"Araçariguama, SP, 18147-000, Brasil",BR-SP,18 Sep 2022,L21565473,S122601807,,1
+289,16851,species,Masked Water-Tyrant,Fluvicola nengeta,,"Araçariguama, SP, 18147-000, Brasil",BR-SP,17 Sep 2022,L21565473,S122601808,,1
+290,4307,species,Planalto Hermit,Phaethornis pretrei,,"Araçariguama, SP, 18147-000, Brasil",BR-SP,16 Sep 2022,L21565473,S122601809,,1
+291,34362,species,Fawn-breasted Tanager,Pipraeidea melanonota,,"Araçariguama, SP, 18147-000, Brasil",BR-SP,06 Sep 2022,L21565473,S122601810,,1
+292,16247,species,Southern Beardless-Tyrannulet,Camptostoma obsoletum,,"Araçariguama, SP, 18147-000, Brasil",BR-SP,06 Sep 2022,L21565473,S122601811,,1
+293,7195,species,Anhinga,Anhinga anhinga,,"Araçariguama, SP, 18147-000, Brasil",BR-SP,05 Sep 2022,L21565473,S122601812,,1
+295,7416,species,Snowy Egret,Egretta thula,,"Araçariguama, SP, 18147-000, Brasil",BR-SP,31 Aug 2022,L21565473,S122601813,,1
+296,33537,species,Tropical Parula,Setophaga pitiayumi,,"Araçariguama, SP, 18147-000, Brasil",BR-SP,31 Aug 2022,L21565473,S122601814,,1
+297,7373,species,Black-crowned Night Heron,Nycticorax nycticorax,,"Araçariguama, SP, 18147-000, Brasil",BR-SP,21 Aug 2022,L21565473,S122601815,,1
+298,34224,species,Ruby-crowned Tanager,Tachyphonus coronatus,,"Araçariguama, SP, 18147-000, Brasil",BR-SP,02 Aug 2022,L21565473,S122601816,,1
+299,13198,species,Spot-backed Antshrike,Hypoedaleus guttatus,,"Araçariguama, SP, 18147-000, Brasil",BR-SP,26 Jul 2022,L21565473,S122601817,,1
+300,7439,species,Striated Heron,Butorides striata,,"Rua Jardim Botânico próximo ao 296-328 - Lagoa, Rio de Janeiro - RJ, 22470-050, Brasil",BR-RJ,29 May 2022,L21565474,S122601818,,1
+301,11731,species,Yellow-headed Caracara,Daptrius chimachima,,"Urca, Rio de Janeiro - RJ, Brasil",BR-RJ,28 May 2022,L21565475,S122601882,,1
+302,6009,species,Black-tailed Godwit,Limosa limosa,,Ireland,IE-L,11 May 2022,L21565476,S122601819,,1
+303,6496,species,Herring Gull,Larus argentatus,,Dublin Airport (DUB),IE-L,10 May 2022,L21565477,S122601820,,1
+304,28756,species,European Robin,Erithacus rubecula,,"Oxfordshire, England, GB",GB-ENG,08 May 2022,L21565479,S122601821,,1
+305,7507,species,Gray Heron,Ardea cinerea,,Hinxton,GB-ENG,06 May 2022,L21565480,S122601822,,1
+306,27356,species,European Starling,Sturnus vulgaris,,"Cambridgeshire, England, GB",GB-ENG,05 May 2022,L21565481,S122601823,,1
+307,31202,species,White Wagtail,Motacilla alba,,"Hinxton Hall, Wellcome Trust Genome Campus, Hinxton, Saffron Walden CB10 1RQ, Reino Unido",GB-ENG,05 May 2022,L21565482,S122601824,,1
+308,1906,species,Common Wood-Pigeon,Columba palumbus,,"Hinxton Hall, Wellcome Trust Genome Campus, Hinxton, Saffron Walden CB10 1RQ, Reino Unido",GB-ENG,05 May 2022,L21565482,S122601824,,1
+309,27987,species,Eurasian Blackbird,Turdus merula,,"Whittlesford Parkway, Whittlesford, Cambridge CB22 4PL, Reino Unido",GB-ENG,05 May 2022,L21565483,S122601826,,1
+310,3211,species,Squirrel Cuckoo,Piaya cayana,,"Vila Indiana, São Paulo - SP, Brasil",BR-SP,29 Apr 2022,L21565484,S122601827,,1
+311,7487,species,Western Cattle Egret,Bubulcus ibis,,"Vitoria, BR-ES, BR",BR-ES,14 Dec 2021,L21565485,S122601828,,1
+313,515,species,Mallard,Anas platyrhynchos,,"Estació de Sagrada Família, Barcelona, Espanha",ES-CT,13 Nov 2021,L21535353,S122413200,,1
+314,2051,species,Eurasian Collared-Dove,Streptopelia decaocto,,Catedral de Barcelona,ES-CT,06 Nov 2021,L21565488,S122601831,,1
+315,6507,species,Yellow-legged Gull,Larus michahellis,,Espanha,ES-CT,05 Nov 2021,L21557005,S122549237,,1
+316,6434,species,Black-headed Gull,Chroicocephalus ridibundus,,Espanha,ES-CT,05 Nov 2021,L21557005,S122549238,,1
+317,12585,species,Plain Parakeet,Brotogeris tirica,,"Vila Indiana, São Paulo - SP, Brasil",BR-SP,29 Oct 2021,L21557006,S122549239,,1
+318,3025,species,Smooth-billed Ani,Crotophaga ani,,"Departamento de Jornalismo e Editoração - CJE - Butantã, São Paulo - SP, 05466, Brasil",BR-SP,27 Feb 2020,L21557007,S122549240,,1
+319,263,species,Graylag Goose,Anser anser,,Londres,GB-ENG,03 Sep 2019,L21557008,S122549241,,1
+320,33193,species,Campo Troupial,Icterus jamacaii,,Governador Lindenberg,BR-ES,26 Dec 2015,L21557009,S122549242,,1
+321,21189,species,Hooded Crow,Corvus cornix,,Schönbrunn,AT-9,01 Oct 2013,L21557010,S122549243,,1
+322,5862,species,Southern Lapwing,Vanellus chilensis,,"Foz do Iguaçu, PR, Brasil",BR-PR,11 Oct 2010,L21535223,S122412262,,1
+323,7549,species,Scarlet Ibis,Eudocimus ruber,,"Belém, PA, Brasil",BR-PA,08 Jan 2009,L21535171,S122411894,,1
+324,2415,species,Eared Dove,Zenaida auriculata,,"Fernando de Noronha - PE, Brasil",BR-PE,07 Jan 2008,L21557013,S122549246,,1
+94,254,species,Bar-headed Goose,Anser indicus,1,Parc départemental du Sausset,FR-IDF,18 May 2023,L6577786,S138211026,X,0
+213,360,species,Black Swan,Cygnus atratus,1,Parque Eduardo Guinle,BR-RJ,30 Oct 2022,L11532167,S121561443,X,0
+312,1515,species,Indian Peafowl,Pavo cristatus,,"Goiabeiras, Vitória - ES, 29066, Brasil",BR-ES,14 Dec 2021,L21565486,S122601829,X,0
+32,6562,spuh,white-winged gull sp.,Larus sp. (white-winged gull sp.),15,Toronto--HTO Park West,CA-ON,09 Jul 2023,L14162082,S144006192,,0
+36,6563,spuh,Larus sp.,Larus sp.,2,Toronto--Olympic Park,CA-ON,09 Jul 2023,L11087735,S143995932,,0
+45,28289,spuh,Turdus sp.,Turdus sp.,1,PNM das Dunas da Lagoa da Conceição--lagoas,BR-SC,24 Jun 2023,L3689144,S142546559,,0
+60,6120,spuh,Tringa sp.,Tringa sp.,1,ESEC de Carijós--Pontal da Daniela,BR-SC,24 Jun 2023,L3846905,S142524019,,0
+67,7543,spuh,heron sp.,Ardeidae sp.,1,Sítio do Engenho,BR-SP,18 Jun 2023,L21434561,S141992772,,0
+68,35053,spuh,Sporophila sp.,Sporophila sp.,3,FLONA Ipanema--Vila de São João,BR-SP,17 Jun 2023,L9794343,S141978611,,0
+69,16436,spuh,elaenia sp. (genus Elaenia),Elaenia sp.,1,FLONA Ipanema--Vila de São João,BR-SP,17 Jun 2023,L9794343,S141978611,,0
+110,5487,spuh,coot sp.,Fulica sp.,35,Reserva Ecológica Costanera Sur,AR-C,19 Apr 2023,L472208,S134313424,,0
+144,4311,spuh,hermit sp.,Phaethornis sp.,1,"Araçariguama, SP, 18147-000, Brasil",BR-SP,20 Mar 2023,L21565473,S131357981,,0
+146,2303,spuh,ground dove/Inca Dove,Columbina sp.,3,Fazenda Carnaúba - Taperoá,BR-PB,06 Mar 2023,L22934451,S130298921,,0
+160,12966,spuh,parrot sp.,Psittaciformes sp. (parrot sp.),1,Sítio do Engenho,BR-SP,11 Jan 2023,L21434561,S125944321,,0
+161,2022,spuh,Patagioenas sp.,Patagioenas sp.,2,Sítio do Engenho,BR-SP,05 Jan 2023,L21434561,S126314137,,0
+162,250,spuh,whistling-duck sp.,Dendrocygna sp.,2,Sítio do Engenho,BR-SP,05 Jan 2023,L21434561,S126314137,,0
+164,881,spuh,Penelope sp.,Penelope sp.,4,Vitória--Jardim Botânico da Vale,BR-ES,28 Dec 2022,L4153207,S124751490,,0
+171,7635,spuh,Cathartes sp.,Cathartes sp.,20,Roça - Governador Lindenberg,BR-ES,25 Dec 2022,L21888521,S124563263,,0
+232,16687,spuh,Empidonax sp.,Empidonax sp.,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,0
+241,3522,spuh,nighthawk sp.,Chordeiles sp.,1,Ammo Dump Ponds,PA-3,25 Oct 2022,L1740339,S121458177,,0
+294,295,spuh,Anser sp.,Anser sp.,,"Araçariguama, SP, 18147-000, Brasil",BR-SP,04 Sep 2022,L21565473,S122601880,X,0

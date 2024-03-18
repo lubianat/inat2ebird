@@ -23,13 +23,19 @@ def get_user_id():
 
 
 def save_all_observations_from_user(
-    user_id, only_new_taxa=False, path_to_life_list="ebird_world_life_list.csv"
+    user_id,
+    only_new_taxa=False,
+    path_to_life_list="ebird_world_life_list.csv",
+    EBIRD_API_KEY=EBIRD_API_KEY,
+    base_dir=HERE,
 ):
     data = fetch_inaturalist_data(user_id)
     life_list = load_ebird_life_list(path_to_life_list)
 
-    entries = generate_entries(data, life_list, only_new_taxa)
-    write_entries_to_csv(entries, user_id)
+    entries = generate_entries(
+        data, life_list, only_new_taxa, EBIRD_API_KEY=EBIRD_API_KEY
+    )
+    write_entries_to_csv(entries, user_id, base_dir=base_dir)
 
 
 def fetch_inaturalist_data(user_id):
@@ -43,7 +49,7 @@ def load_ebird_life_list(path_to_list="ebird_world_life_list.csv"):
     return [a for a in life_list_df["Scientific Name"]]
 
 
-def generate_entries(data, life_list, only_new_taxa):
+def generate_entries(data, life_list, only_new_taxa, EBIRD_API_KEY=EBIRD_API_KEY):
     entries = []
     for observation in tqdm(data["results"]):
         species = observation["taxon"]["name"]
@@ -51,7 +57,9 @@ def generate_entries(data, life_list, only_new_taxa):
             continue
         try:
             life_list.append(species)
-            entry = generate_entry_from_observation_data(observation)
+            entry = generate_entry_from_observation_data(
+                observation, EBIRD_API_KEY=EBIRD_API_KEY
+            )
             entries.append(entry)
         except Exception as e:
             print(e)
@@ -64,7 +72,7 @@ def log_error(error, observation):
         f.write(f"Error '{error}' with entry {observation['id']}\n")
 
 
-def write_entries_to_csv(entries, user_id):
+def write_entries_to_csv(entries, user_id, base_dir=HERE):
     filename = f"all_bird_entries_{user_id}.csv"
     with open(filename, "w", newline="\n") as f:
         writer = csv.writer(f)
