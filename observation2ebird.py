@@ -23,6 +23,7 @@ EBIRD_API_KEY = os.environ["EBIRD_API_KEY"]
 class eBirdEntry:
     """Class for formatting an iNaturalist entry to eBird."""
 
+    common_name: str
     genus: str
     species: str
     location: str
@@ -32,7 +33,6 @@ class eBirdEntry:
     start_time: str
     state_province: str
     country_code: str
-    common_name: str = ""
     number: str = "X"  # The number of birds seen there as string (defaults to 'X')
     species_comments: str = ""
     protocol: str = "Incidental"
@@ -117,7 +117,9 @@ def generate_entry_from_observation_data(observation_data, EBIRD_API_KEY=EBIRD_A
     regional_code = location_guess.text.split(",")[2].split("-")[1]
     species = taxon_data["name"]
     genus = species.split(" ")[0]
+    common_name = taxon_data.get("preferred_common_name", "")
     entry = eBirdEntry(
+        common_name=common_name,
         genus=genus,
         species=species.split(" ")[-1],
         location=location_string,
